@@ -12,8 +12,9 @@ description: "Call for papers"
 
 <font size="1">
 <table>
-<tr><td>Type </td><td> Length</td><td> Content </td><td width="150"> Notes</td></tr>
+<tr><td>Type </td><td> Length</td><td> Content </td><td width="150px"> Notes</td></tr>
 <tr><td>Technical paper </td><td> 10+ pages (usually less than 50) </td><td> Motivation + methods  +  new results </td><td> Archival records of completed research, usually with an  evidence-based evaluation of hypotheses (e.g experiments on some SE-related data with a statistical analysis).   </td></tr>
+<tr><td>Futures paper</td><td>4+ pages</td><td>  </td><td> See <a href="futures.html">Futures page</a></td></tr>
 <tr><td>Industrial paper </td><td> 3+ pages (usually less than 50)</td><td> </td><td> E.g. reports an early prototype or deployed version of an automated software engineering task, or experiences/challenges during the deployment of such automation.</td></tr>
 <tr><td>Literature review </td><td> 10+ pages (usually less than 50) </td><td> Motivation + methods + summary of old results  </td><td> Merely describing prior work is not  enough. Literature reviews should identify gaps in prior work and propose ways to address that gap. Exceptional literature reviews actually perform some of those experiments..</td></tr>
 <tr><td>Vision statement </td><td> 3-8 pages </td><td> Motivation </td><td> A carefully stated opinion, perhaps yet without supporting experimentation. For example, see “Edgar Dijkstra: Go To Statement Considered Harmful”, https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf</td></tr>
