@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Call for papers
-nav_order: 1
-description: "Call fpr paper"
-permalink: /
+description: "Call for papers"
 ---
 
 # Call for papers
