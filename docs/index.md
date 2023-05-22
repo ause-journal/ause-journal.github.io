@@ -9,7 +9,7 @@ permalink: /
 # Automated Software Engineering Journal Companion Site
 {: .fs-9 }
 
-<img width=300 align=right src="/img/logo.png">
+<img width=150 align=right src="/img/logo.png">
 
 This journal welcomes papers where
 
