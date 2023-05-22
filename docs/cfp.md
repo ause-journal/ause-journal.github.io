@@ -7,10 +7,10 @@ description: "Call for papers"
 # Call for papers
 {: .fs-9 }
 
----
 
 <font size="1">
 
+---
 
 |Type | Length| Content | Notes|
 |----|--------|---------|------|
