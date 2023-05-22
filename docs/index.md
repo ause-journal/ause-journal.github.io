@@ -9,8 +9,14 @@ permalink: /
 # Automated Software Engineering Journal Companion Site
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+This journal welcomes papers where (a) software engineering tasks
+are being explored (in some non-trivial manner); and (b) the activity
+being automated (or semi-automated) is too complex for manual
+analysis (given reasonable resource constraints). For example, a
+manual requirements engineering method would not be acceptable here.
+On the other hand, what could be acceptable would be a novel tool
+(e.g.  automatic natural language analysis) that supports that
+requirements engineering process. 
 
 [View journal](https://www.springer.com/journal/10515){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
