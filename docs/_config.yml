@@ -4,3 +4,5 @@ remote_theme: just-the-docs/just-the-docs
 xlogo: "/img/logo.png"
 favicon_ico: "/img/favicon.ico"
 color_scheme: dark
+footer_content: "Copyright &copy; 2023 Tim  Menzies"
+
