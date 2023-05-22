@@ -38,7 +38,7 @@ the owners of this repository before making a change. Read more
 about becoming a contributor in [our GitHub
 repo](https://github.com/ause-journal/ause-journal.github.io)
 
-#### Thank you to the contributors of Just the Docs!
+#### Thank you to our contributors:
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
