@@ -16,13 +16,15 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 
 ---
 
-This journal welcomes papers where (a) software engineering tasks are being explored (in some non-trivial manner); and (b) the activity being automated (or semi-automated) is too complex for manual analysis (given reasonable resource constraints). For example, a manual requirements engineering method would not be acceptable here. On the other hand, what could be acceptable would be a novel tool (e.g.  automatic natural language analysis) that supports that requirements engineering process. 
 
 
 ### Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
+When contributing to this repository, please first discuss the
+change you wish to make via issue, email, or any other method with
+the owners of this repository before making a change. Read more
+about becoming a contributor in [our GitHub
+repo](https://github.com/ause-journal/ause-journal.github.io)
 
 #### Thank you to the contributors of Just the Docs!
 
