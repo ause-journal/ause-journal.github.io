@@ -8,9 +8,9 @@ description: "Call for papers"
 {: .fs-9 }
 
 
-<font size="1">
-
 ---
+
+<tiny>
 
 |Type | Length| Content | Notes|
 |----|--------|---------|------|
@@ -25,6 +25,6 @@ description: "Call for papers"
 |Errata | 3-8 page |s Text | Fixing some misstatements in a prior publication.  |
 
 
-</font>
+</tiny>
 
 
