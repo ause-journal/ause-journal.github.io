@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Call for papers
+nav_order: 2
 description: "Call for papers"
 ---
 
