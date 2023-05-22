@@ -11,16 +11,20 @@ permalink: /
 
 <img width=300 align=right src="/img/logo.png">
 
-This journal welcomes papers where (a) software engineering tasks
-are being explored (in some non-trivial manner); and (b) the activity
-being automated (or semi-automated) is too complex for manual
-analysis (given reasonable resource constraints). For example, a
+This journal welcomes papers where
+
+- software engineering tasks are being explored (in some non-trivial manner); and
+- the activity being automated (or semi-automated) is too complex for manual analysis (given reasonable resource constraints). 
+
+For example, a
 manual requirements engineering method would not be acceptable here.
 On the other hand, what could be acceptable would be a novel tool
 (e.g.  automatic natural language analysis) that supports that
 requirements engineering process. 
 
 [View journal](https://www.springer.com/journal/10515){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+<br clear=all>
 
 ---
 
