@@ -10,7 +10,7 @@ description: "Call for papers"
 
 ---
 
-<tiny>
+<font size="1">
 <table>
 <tr><td>Type </td><td> Length</td><td> Content </td><td> Notes</td></tr>
 <tr><td>Technical paper </td><td> 10+ pages (usually less than 50) </td><td> Motivation + methods  +  new results </td><td> Archival records of completed research, usually with an  evidence-based evaluation of hypotheses (e.g experiments on some SE-related data with a statistical analysis).   </td></tr>
@@ -23,6 +23,6 @@ description: "Call for papers"
 <tr><td>Tool (or data set) report </td><td> 3-8 pages </td><td> Method (not  new results) </td><td> Short report offer some notes on a  some reusab;e tool/ artifact/ data set describing , along with open issues with that   tool or data set that could be explored further .  Tool reports are evaluated  according to their potential to enable future work.</td></tr>
 <tr><td>Errata </td><td> 3-8 page </td><td>s Text </td><td> Fixing some misstatements in a prior publication.  </td></tr>
 </table>
-</tiny>
+</font>
 
 
