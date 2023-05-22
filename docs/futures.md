@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Call for papers, Future's Track"
+title: "CFP: Future's Track"
 description: "Call for papers, Future's Track"
 ---
 
