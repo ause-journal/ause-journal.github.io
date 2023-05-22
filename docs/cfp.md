@@ -8,7 +8,7 @@ description: "Call for papers"
 {: .fs-9 }
 
 
-<img src="/img/venn.png" align=right width=300>
+<img src="/img/venn.png" align=right width=450>
 
 Standard journal papers include motivation, method, and results. AUSE journal papers are usually the same but, as shown below, can contain zero or more
 motivation, methods, and results sections.
