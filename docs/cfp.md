@@ -11,8 +11,19 @@ description: "Call for papers"
 
 <img src="/img/venn.png" align=right width=450>
 
-Standard journal papers include motivation, method, and results. AUSE journal papers are usually the same but, as shown below, can contain zero or more
-motivation, methods, and results sections.
+Standard journal papers include **motivation**, **method**, and **results**. 
+
+AUSE journal papers are usually the same but, as shown below, can contain zero or more
+**motivationi**, **methods**, and **results** sections.
+
+For example:
+
+- a _vision statement_ may contain only **motiviation** statements;
+- a _registerred report_ contains just **motiviation** and **method**;
+- a _tools paper_ may be just **method** (without, say, **results**);
+- etc
+
+So check the list below-- maybe you can find the kind of paper you always wanted to write!
 
 <br clear=all>
 
