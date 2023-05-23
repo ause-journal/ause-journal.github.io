@@ -33,6 +33,10 @@ to the **front** of your title within your paper; e.g. _**Industrial Paper**: In
 (otherwise, we may accidently apply the wrong review criteria).
 
 
+{: .warning }
+> This website documents the features of the current `main` branch of the Just the Docs theme. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
+
+
 
 <font size="1">
 <table>
