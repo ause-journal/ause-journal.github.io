@@ -6,7 +6,7 @@ description: "About this stite"
 permalink: /
 ---
 
-# Automated Software Engineering Journal Companion Site
+# Automated SE Journal<br>Companion Site
 {: .fs-9 }
 
 <img width=150 align=right src="/img/logo.png">
@@ -25,7 +25,6 @@ requirements engineering process.
 [View journal](https://www.springer.com/journal/10515){: .btn .btn-primary }
  &nbsp;  [Submit to journal](https://idp-personal-authenticator.springernature.com/gateway?response_type=code&redirect_uri=https%3A%2F%2Fidp.springernature.com%2Fauthed%2Fpersonal&state=eyJjdHkiOiJKV1QiLCJlbmMiOiJBMTI4R0NNIiwiYWxnIjoiZGlyIn0..HsnLYSLQGximhLB1.DZRpZa4xo5MRfopZzMzhKRCf1PgAUSXfxrZ1lny5nprz-kIJeHkubZdMVEEIMI6MAwPCdak-LhVXpd0KFY3_DcKRko7yndCGMYQeqdHH3q7XlbNSwyC6x1BdUWq6uoJFYc04FU_c1KP5ubF23dc8un0qWcqUqRMWJAnZXbo1YhK1o44hEpRCsI5w_QBG_jD7vyIqAQm-RZKCBkwBk9JGvyMdFs5qnCJxzzYZBNOVvg8NsJw50R0Tlq9XJtfk0brjPX3n8WnJ_FT6t2K3hg0XzFC0fmzcLmsSwXTO1tPqTg9ULp8CXKJCl4M-bfrV-dcVGR2yey03P_BSm3WMClVwnwFcOpvxX7fFKt9bfoR82w5mF7pTcbNoZ9FzPr-oH990BE2xGeOZ_T7I2gs4KclmSxdEpRtN972H4pKH2nmTNxB4vB1k7WD8DfryWl63hYuvcwe8N3rPsELYlzxOwAJtKcofrLirx4iY2mKKMXA2-FhcCtQnbn609H6kcdkcuwI0X-SsMwo9kUaIZ7On0ExbSdAuX9rwHDK0O3BQjCZMMPimHZD3QSe8O-vbB41rprmpAkB4IbNB9j6A-vrwP6KqY52IXfdj2XYaUJPCNypBDgF_DPAI-oMheBObYQsh-4qOghPPlYLw-49H-YL8PcqbXF71xP46W-F_FSPAatXrLF_GxonxsNOmxfGzAcWTwfsCwbUkyIY-9_Drt-CJRloNArcFaGCuPkgIF9ow7qlSesR0ROxrF84BAF9bg2OGzwXBwhLXwGBP7FLPYGUqlywxwzA9uMevSXZ1ReHT7KR_tw0P.hQ3wpraluqq3aA0Z1AVLeg&context_code=10515&target_redirect_uri=https%3A%2F%2Fsubmission.springernature.com%2Fnew-submission%2F10515%2F3&context_type=submission){: .btn .btn-blue }
 
-.fs-5 .mb-4 .mb-md-0 .mr-2 }
 <br clear=all>
 
 ---
