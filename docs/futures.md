@@ -9,7 +9,7 @@ description: "CFP: Future's Track"
 
 - A future's paper is an invited "vision statement"  in a special collection called "the future"
   - A carefully stated opinion, perhaps yet without supporting experimentation. For example, see 
-    [Edgar Dijkstra: Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf). </td></tr>
+    [Edgar Dijkstra: Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf). 
 - 3+ pages minimum by invitation  from an Associated Editor
   - (Non-invited authors may submit a 1 page proposal of what they might say).
 
