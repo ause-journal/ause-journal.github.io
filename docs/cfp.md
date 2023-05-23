@@ -27,7 +27,7 @@ So check the list below-- maybe you can find the kind of paper you always wanted
 
 {: .warning }
 
-> If you are not submitting a standard _technical paper_ (as defined below), it is strongly recommeded you add the name of the paper type
+If you are not submitting a standard _technical paper_ (as defined below), it is strongly recommeded you add the name of the paper type
 to the **front** of your title within your paper; e.g. _**Industrial Paper**: Insights from 3 years of static code analysis_
 (otherwise, we may accidently apply the wrong review criteria).
 
