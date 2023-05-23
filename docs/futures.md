@@ -7,8 +7,10 @@ description: "CFP: Future's Track"
 # Call for papers, Future's Track
 {: .fs-9 }
 
-- A future's paper is an invited "vision papers"  in a special collection called "the future"
-- 4 pages minimum by   invitation  from an Associated Editor
+- A future's paper is an invited "vision statement"  in a special collection called "the future"
+  - A carefully stated opinion, perhaps yet without supporting experimentation. For example, see 
+    [Edgar Dijkstra: Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf). </td></tr>
+- 3+ pages minimum by invitation  from an Associated Editor
   - (Non-invited authors may submit a 1 page proposal of what they might say).
 
 ---
