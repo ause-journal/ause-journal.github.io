@@ -2,6 +2,7 @@
 layout: default
 title: "CFP: Future's Track"
 description: "CFP: Future's Track"
+nav_order: 2
 ---
 
 # Call for papers, Future's Track
