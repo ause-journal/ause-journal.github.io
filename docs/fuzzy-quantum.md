@@ -1,9 +1,12 @@
 ---
 layout: default
-title: "CFP: Implications of Fuzzy techniques for developing quantum software systems"
+title: "CFP: Fuzzy Quantum"
 description: "CFP: Fuzzy Quantum"
 nav_order: 3
 ---
+
+# CFP: Implications of Fuzzy techniques for developing quantum software systems
+{: .fs-9 }
 
 ## Deadline
 
