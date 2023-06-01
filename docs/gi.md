@@ -8,6 +8,21 @@ nav_order: 3
 # Call for papers, Genetic Improvement
 {: .fs-9 }
 
+Genetic Improvement is the application of evolutionary and search-based optimisation methods to the improvement of existing software. It has been used to improve both software functional properties, such as fixing bug or performing automated code transplantation, and software non-functional properties, such as minimising execution time, memory usage, or energy consumption.
+
+We invite submissions that discuss recent developments in all areas of research on, and applications of, Genetic Improvement. Topics of interest include both the theory and practice of Genetic Improvement. Applications of GI include, but are not limited to:
+
+- Improve efficiency
+- Decrease memory consumption
+- Decrease energy consumption
+- Transplant new functionality
+- Specialise software
+- Translate between programming languages
+- Generate multiple versions of software
+- Improve low level or binary code
+- Repair bugs
+- GI techniques in industrial settings
+
 ## Deadline
 
 30 June 2023
