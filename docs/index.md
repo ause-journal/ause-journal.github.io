@@ -11,7 +11,7 @@ permalink: /
 
 <img width=150 align=right src="/img/logo.png">
 
-This journal welcomes papers where:
+This journal welcomes papers that describe some automated task where:
 
 - software engineering tasks are being explored (in some non-trivial manner); 
 - **and** the activity being automated (or semi-automated) is too complex for manual analysis (given reasonable resource constraints). 
