@@ -18,8 +18,8 @@ AUSE journal papers are usually the same but, as shown below, can contain zero o
 
 For example:
 
-- a _vision statement_ may contain only **motiviation** statements;
-- a _registered report_ contains just **motiviation** and **method**;
+- a _vision statement_ may contain only **motivation** statements;
+- a _registered report_ contains just **motivation** and **method**;
 - a _tools paper_ may be just **method** (without, say, **results**);
 - etc
 
