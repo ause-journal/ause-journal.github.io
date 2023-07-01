@@ -18,6 +18,7 @@ AUSE journal papers are usually the same but, as shown below, can contain zero o
 
 For example:
 
+- a _standard technical paper_ contains **motivation** and **method**  and **results**;
 - a _vision statement_ may contain only **motivation** statements;
 - a _registered report_ contains just **motivation** and **method**;
 - a _tools paper_ may be just **method** (without, say, **results**);
