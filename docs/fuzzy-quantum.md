@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "CFP: Fuzzy Quantum"
-description: "CFP: Fuzzy Quantum"
+description: "CFP: Fuzzy Quantum (Nov30)"
 nav_order: 3
 ---
 
