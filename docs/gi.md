@@ -25,7 +25,7 @@ We invite submissions that discuss recent developments in all areas of research 
 
 ## Deadline
 
-30 June 2023
+31 July 2023
 
 ## How to Submit
 
