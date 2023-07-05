@@ -22,3 +22,22 @@ nav_order: 2
 |The future of Automation + Qualitative SE | John Grundy|   john.grundy@monash.edu |April 16|
 |The future of SE development              | Burak Turhan| turhanb@computer.org  |April 16|
 |The future of software analytics          | Hongyu Zhang|  Hongyu.Zhang@newcastle.edu.au  |April 16|
+
+## Review Criteria
+
+Authors of futures papers should apply the following checklist before submission.
+
+- [ ]  Is the paper current and timely? (We don’t really want to publish something that could  have been written 5,10 years ago)
+- [ ] Is it a useful vision:? (Essential requirement)
+- [ ] Is it a breathtaking vision? (Optional, but desirable).
+- [ ] Is it a useful vision? i.e.
+  - Does it list relevant work ?
+  - Does it offer numerous open challenges?
+  - Does it rank challenges most to least pressing?
+- [ ] Does it miss anything that would be useful to add ? (But don’t go crazy on this one— don’t want these papers to get too long).
+  - e.g. what are the key over/under-researched areas to date?
+  - e.g. what are real-world ASE deployments to date/needed in future?
+  - e.g. the usual suspects: security, open science, ethics, LLMs, etc
+- [ ] In the writing, are there any anti-patterns?
+  - Is the paper <10  pages (optional; but short and to the point is better!)
+  - Is there some  IMPORTANT paragraph buried in the body (when it really should be on p1)?
