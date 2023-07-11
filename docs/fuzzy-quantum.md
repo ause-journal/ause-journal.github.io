@@ -50,7 +50,7 @@ Open call.
 
 ## Editor
 
-Shahid Hussain   
+Shahid Hussain    shussain@psu.edu &larr; contact      
 Prof. Lianyong Qi   
 Wen-Li Wang
  
