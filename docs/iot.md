@@ -58,5 +58,5 @@ Open call.
 ## Editor
 
 Dr. Mohammed I Younis, mhd.issamyounis@gmail.com   
-Dr. Abdul Rahman A. Alsewari, rahman.alsewari@bcu.ac.uk    
-Dr. Kamal Zuhairi bin Zamli,  kamalz@ump.edu.my    
+Dr. Abdul Rahman A. Alsewari    
+Dr. Kamal Zuhairi bin Zamli  
