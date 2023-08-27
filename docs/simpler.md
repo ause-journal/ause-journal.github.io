@@ -10,7 +10,7 @@ nav_order: 2
 
 
 {: .warning }
-> Submissions to this track must come with a cover letter stating that they wish to be reviewed as "less is more" paper.
+> Submissions to this track must be situated in the SE literature and  come with a cover letter stating that they wish to be reviewed as "less is more" paper.
 
 Throughout the years, there have been numerous accounts of very basic models that have achieved remarkable results [^am] [^ho] [^ko] [^me] [^ta] [^za], and that such simpler models are essential for people to understand a subject [^pi]. So where are the researchers inquiring ``could this imply that we can make software analytics easier to comprehend and simpler?''
 
