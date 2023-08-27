@@ -21,7 +21,7 @@ Throughout the years, there have been numerous accounts of very basic models tha
 [^me]: Tim Menzies, Burak Turhan, Ayse Bener, Gregory Gay, Bojan Cukic, and Yue Jiang. 2008. Implications of ceiling effects in defect predictors. In Proceedings of the 4th international workshop on Predictor models in software engineering. 47–54.
 [^pi]: Nathaniel D Phillips, Hansjoerg Neth, Jan K Woike, and Wolfgang Gaissmaier. 2017. FFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees. Judgment and Decision Making 12, 4 (2017), 344–368.
 [^ta]: Vali Tawosi, Rebecca Moussa, and Federica Sarro. 2023. Agile Effort Estimation: Have We Solved the Problem Yet? Insights From a Replication Study. IEEE Transactions on Software Engineering 49, 4 (2023), 2677–2697. https://doi.org/10.1109/TSE.2022.3228739
-[^za]: Xiaohong Zhang. 2021. A comprehensive comparative study of clustering-based unsupervised defect prediction models. Journal of Systems and Software 172 (2021), 110862. 
+[^za]: Zhou Xu, Li Li, Meng Yan, Jin Liu, Xiapu Luo, John Grundy, Yifeng Zhang, Xiaohong Zhang, A comprehensive comparative study of clustering-based unsupervised defect prediction models, Journal of Systems and Software, Volume 172, 2021.
 
 We are proposing the creation of a platform where researchers can openly discuss the idea that some of our methods are overly-complex and that simpler approaches can be just as effective. This call is ongoing and we are looking for papers that; e.g.
 
