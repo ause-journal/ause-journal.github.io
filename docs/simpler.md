@@ -8,7 +8,8 @@ nav_order: 2
 # Call for papers, Less is More
 {: .fs-9 }
 
-Submissions to this track musht come  much come with a cover letter stating that they wish to be reviewed as "less is more" paper.
+{: .warning }
+> Submissions to this track must come  much come with a cover letter stating that they wish to be reviewed as "less is more" paper.
 
 Over the years, there have been many reports  that very simple models can perform exceptionally well [^am] [^ho] [^ko] [^me] [^ta] [^za]
 and that such simpler models are essential for human comprehension of a topic [^pi].
@@ -21,8 +22,7 @@ that mean that we could make software analytics simpler and more comprehensible'
 [^ko]: Ron Kohavi and George H. John. 1997. Wrappers for Feature Subset Selection. Artificial Intelligence 97, 1-2 (1997), 273–324. 
 [^me] Tim Menzies, Burak Turhan, Ayse Bener, Gregory Gay, Bojan Cukic, and Yue Jiang. 2008. Implications of ceiling effects in defect predictors. In Proceedings of the 4th international workshop on Predictor models in software engineering. 47–54.
 [^pi]: Nathaniel D Phillips, Hansjoerg Neth, Jan K Woike, and Wolfgang Gaissmaier. 2017. FFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees. Judgment and Decision Making 12, 4 (2017), 344–368.
-[^ta]: Vali Tawosi, Rebecca Moussa, and Federica Sarro. 2023. Agile Effort Estimation: Have We Solved the Problem Yet? Insights From a Replication Study. IEEE Transactions on Software Engineering 49, 4 (2023), 2677–2697. https://doi.org/10.
-1109/TSE.2022.3228739
+[^ta]: Vali Tawosi, Rebecca Moussa, and Federica Sarro. 2023. Agile Effort Estimation: Have We Solved the Problem Yet? Insights From a Replication Study. IEEE Transactions on Software Engineering 49, 4 (2023), 2677–2697. https://doi.org/10.1109/TSE.2022.3228739
 [^za]: Xiaohong Zhang. 2021. A comprehensive comparative study of clustering-based unsupervised defect prediction models. Journal of Systems and Software 172 (2021), 110862. 
 
 Perhaps what is missing is a forum where resaercehrs can express the hereshy that some of our methods are overly-complex and that astonishingly simple methods can be astonishingly effective.
