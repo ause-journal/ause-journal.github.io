@@ -16,11 +16,11 @@ and that such simpler models are essential for human comprehension of a topic [^
 Yet where are the researchers asking ``say, does
 that mean that we could make software analytics simpler and more comprehensible''?
 
-[^am]:Amritanshu Agrawal, Wei Fu, Di Chen, Xipeng Shen, and Tim Menzies. 2019. How to “dodge” complex software analytics. IEEE Transactions on Software Engineering 47, 10 (2019), 2182–2194.
+[^am]: Amritanshu Agrawal, Wei Fu, Di Chen, Xipeng Shen, and Tim Menzies. 2019. How to “dodge” complex software analytics. IEEE Transactions on Software Engineering 47, 10 (2019), 2182–2194.
 [^gi]: Gigerenzer G. Why Heuristics Work. Perspect Psychol Sci. 2008 Jan;3(1):20-9. doi: 10.1111/j.1745-6916.2008.00058.x. PMID: 26158666.
 [^ho]: Robert C. Holte. 1993. Very Simple Classification Rules Perform Well on Most Commonly Used Datasets. Machine Learning 11 (1993), 63–90
 [^ko]: Ron Kohavi and George H. John. 1997. Wrappers for Feature Subset Selection. Artificial Intelligence 97, 1-2 (1997), 273–324. 
-[^me] Tim Menzies, Burak Turhan, Ayse Bener, Gregory Gay, Bojan Cukic, and Yue Jiang. 2008. Implications of ceiling effects in defect predictors. In Proceedings of the 4th international workshop on Predictor models in software engineering. 47–54.
+[^me]: Tim Menzies, Burak Turhan, Ayse Bener, Gregory Gay, Bojan Cukic, and Yue Jiang. 2008. Implications of ceiling effects in defect predictors. In Proceedings of the 4th international workshop on Predictor models in software engineering. 47–54.
 [^pi]: Nathaniel D Phillips, Hansjoerg Neth, Jan K Woike, and Wolfgang Gaissmaier. 2017. FFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees. Judgment and Decision Making 12, 4 (2017), 344–368.
 [^ta]: Vali Tawosi, Rebecca Moussa, and Federica Sarro. 2023. Agile Effort Estimation: Have We Solved the Problem Yet? Insights From a Replication Study. IEEE Transactions on Software Engineering 49, 4 (2023), 2677–2697. https://doi.org/10.1109/TSE.2022.3228739
 [^za]: Xiaohong Zhang. 2021. A comprehensive comparative study of clustering-based unsupervised defect prediction models. Journal of Systems and Software 172 (2021), 110862. 
