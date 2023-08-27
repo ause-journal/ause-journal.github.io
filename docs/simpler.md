@@ -12,9 +12,10 @@ nav_order: 2
 {: .warning }
 > Submissions to this track must be situated in the SE literature and  come with a cover letter stating that they wish to be reviewed as "less is more" paper.
 
-Throughout the years, there have been numerous accounts of very basic models that have achieved remarkable results [^am] [^ho] [^ko] [^me] [^ta] [^za], and that such simpler models are essential for people to understand a subject [^pi]. So where are the researchers inquiring ``could this imply that we can make software analytics simpler and easier to comprehend?''
+Throughout the years, there have been numerous accounts of very basic models that have achieved remarkable results [^am] [^ho] [^ko] [^me] [^ta] [^za] [^ch], and that such simpler models are essential for people to understand a subject [^pi]. So where are the researchers inquiring ``could this imply that we can make software analytics simpler and easier to comprehend?''
 
 [^am]: Amritanshu Agrawal, Wei Fu, Di Chen, Xipeng Shen, and Tim Menzies. 2019. How to “dodge” complex software analytics. IEEE Transactions on Software Engineering 47, 10 (2019), 2182–2194.
+[^ch]: Di Chen, Wei Fu, Rahul Krishna, and Tim Menzies. 2018. Applications of psychological science for actionable analytics. ESEC/FSE 2018.  456–467. https://doi.org/10.1145/3236024.3236050
 [^gi]: Gigerenzer G. Why Heuristics Work. Perspect Psychol Sci. 2008 Jan;3(1):20-9. doi: 10.1111/j.1745-6916.2008.00058.x. PMID: 26158666.
 [^ho]: Robert C. Holte. 1993. Very Simple Classification Rules Perform Well on Most Commonly Used Datasets. Machine Learning 11 (1993), 63–90
 [^ko]: Ron Kohavi and George H. John. 1997. Wrappers for Feature Subset Selection. Artificial Intelligence 97, 1-2 (1997), 273–324. 
