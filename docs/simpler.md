@@ -34,7 +34,7 @@ We are proposing the creation of a platform where researchers can openly discuss
 - Studies that show that a 10% system can perform as well as a 100% system.
 - Semi-supervised learning methods that let us do much more with much less data;
 
-and any other kind of study that illustrates when less can be more.
+or any other kind of study that illustrates when less can be more in automated SE.
 
 ## Deadline
 
