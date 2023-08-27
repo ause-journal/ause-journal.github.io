@@ -30,11 +30,11 @@ So let us create that forum.
 
 In this call, which has no end date, we seek papers that revisit older results then perform 
 
-- e.g. a study combining two methods, showing that task A can be better eprformed by B (where B is somehow "less"; i.e. smaller, simpler, faster);
+- e.g. a study combining two methods, showing that task A can be better performed by B (where B is somehow "less"; i.e. smaller, simpler, faster);
 - or e.g. ablation studies that throws away bits  of an implementation till  the performance drops;
 - or e.g. some kind of  instance or feature selection to reduce the training set
 - or e.g. some kind of distillation method to reduce the size of a learned model
-- or e.g. some variance study that show that the apparent improvement of a complex method over a simpler one is actual insignificantly small
+- or e.g. some variance study that show that the apparent improvement of a complex method over a simpler one is actually insignificantly small
 - or e.g. some study showing that a 10% system (measured in, say,  LOC) does as nearly as well  as the 100% system.
 - or e.g. some other kind of study illustrating when less can be very much more.
 
