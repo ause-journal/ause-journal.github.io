@@ -12,7 +12,7 @@ nav_order: 2
 {: .warning }
 > Submissions to this track must be situated in the SE literature and  come with a cover letter stating that they wish to be reviewed as "less is more" paper.
 
-Throughout the years, there have been numerous accounts of very basic models that have achieved remarkable results [^am] [^ho] [^ko] [^me] [^ta] [^za] [^ch], and that such simpler models are essential for people to understand a subject [^pi]. So where are the researchers inquiring ``could this imply that we can make software analytics simpler and easier to comprehend?''
+Throughout the years, there have been numerous accounts of very basic models that have achieved remarkable results [^am] [^ho] [^ko] [^me] [^ta] [^za] [^ch] [^liu] [^kang], and that such simpler models are essential for people to understand a subject [^pi]. So where are the researchers inquiring ``could this imply that we can make software analytics simpler and easier to comprehend?''
 
 [^am]: Amritanshu Agrawal, Wei Fu, Di Chen, Xipeng Shen, and Tim Menzies. 2019. How to “dodge” complex software analytics. IEEE Transactions on Software Engineering 47, 10 (2019), 2182–2194.
 [^ch]: Di Chen, Wei Fu, Rahul Krishna, and Tim Menzies. 2018. Applications of psychological science for actionable analytics. ESEC/FSE 2018.  456–467. https://doi.org/10.1145/3236024.3236050
@@ -23,6 +23,8 @@ Throughout the years, there have been numerous accounts of very basic models tha
 [^pi]: Nathaniel D Phillips, Hansjoerg Neth, Jan K Woike, and Wolfgang Gaissmaier. 2017. FFTrees: A toolbox to create, visualize, and evaluate fast-and-frugal decision trees. Judgment and Decision Making 12, 4 (2017), 344–368.
 [^ta]: Vali Tawosi, Rebecca Moussa, and Federica Sarro. 2023. Agile Effort Estimation: Have We Solved the Problem Yet? Insights From a Replication Study. IEEE Transactions on Software Engineering 49, 4 (2023), 2677–2697. https://doi.org/10.1109/TSE.2022.3228739
 [^za]: Zhou Xu, Li Li, Meng Yan, Jin Liu, Xiapu Luo, John Grundy, Yifeng Zhang, Xiaohong Zhang, A comprehensive comparative study of clustering-based unsupervised defect prediction models, Journal of Systems and Software, Volume 172, 2021.
+[^liu]: Zhongxin Liu, Xin Xia, Ahmed E. Hassan, David Lo, Zhenchang Xing, Xinyu Wang: Neural-machine-translation-based commit message generation: how far are we? ASE 2018: 373-384
+[^kang]: Hong Jin Kang, Tegawendé F. Bissyandé, David Lo: Assessing the Generalizability of Code2vec Token Embeddings. ASE 2019: 1-12
 
 We are proposing the creation of a platform where researchers can openly discuss the idea that some of our methods are overly-complex and that simpler approaches can be just as effective. This call is ongoing and we are looking for papers that; e.g.
 
