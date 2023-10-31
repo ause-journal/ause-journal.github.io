@@ -1,12 +1,14 @@
 ---
 layout: default
-title: "CFP: Genetic Improvement"
+xtitle: "CFP: Genetic Improvement"
 description: "CFP: Genetic Improvement (June30)"
 nav_order: 3
 ---
 
-# Call for papers, Genetic Improvement
+# <strike>Call for papers, Genetic Improvement</strike>
 {: .fs-9 }
+
+(This call is now over.)
 
 Genetic Improvement is the application of evolutionary and search-based optimisation methods to the improvement of existing software. It has been used to improve both software functional properties, such as fixing bug or performing automated code transplantation, and software non-functional properties, such as minimising execution time, memory usage, or energy consumption.
 
