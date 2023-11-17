@@ -1,7 +1,7 @@
 ---
 layout: default
 xtitle: "CFP: Genetic Improvement"
-description: "CFP: Genetic Improvement (June30)"
+xdescription: "CFP: Genetic Improvement (June30)"
 nav_order: 3
 ---
 
