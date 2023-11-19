@@ -11,7 +11,7 @@ nav_order: 2
 - A future's paper is an invited "vision statement"  in a special collection called "the future"
   - A carefully stated opinion, perhaps yet without supporting experimentation. For example, see 
     [Edgar Dijkstra: Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf). 
-- 3+ pages minimum by invitation  from an Associated Editor
+- 3 pages minimum, 8 pages max ( by invitation  from an Associated Editor_
   - (Non-invited authors may submit a 1 page proposal of what they might say).
 
 ---
@@ -39,5 +39,5 @@ Authors of futures papers should apply the following checklist before submission
   - e.g. what are real-world ASE deployments to date/needed in future?
   - e.g. the usual suspects: security, open science, ethics, LLMs, etc
 - [ ] In the writing, are there any anti-patterns?
-  - Is the paper <10  pages (optional; but short and to the point is better!)
+  - Is the paper <5  pages (optional; but short and to the point is better!)
   - Is there some  IMPORTANT paragraph buried in the body (when it really should be on p1)?
