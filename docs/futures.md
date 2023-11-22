@@ -14,6 +14,9 @@ nav_order: 2
 - 3 pages minimum, 8 pages max ( by invitation  from an Associated Editor_
   - (Non-invited authors may submit a 1 page proposal of what they might say).
 
+{: .warning }
+> We caution Ph.D. students that "futures" does not mean "Ph.D. prospectus"; i.e. it does **not** mean as-yet-undeveloped preliminary notes. Rather, a Futures paper should be based on extensive experience with some area.   
+
 ---
 
 |Track | Associate Editor | Contact| Appointed |
