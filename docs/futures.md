@@ -42,5 +42,5 @@ Authors of futures papers should apply the following checklist before submission
   - e.g. what are real-world ASE deployments to date/needed in future?
   - e.g. the usual suspects: security, open science, ethics, LLMs, etc
 - [ ] In the writing, are there any anti-patterns?
-  - Is the paper <5  pages (optional; but short and to the point is better!)
+  - Is the paper short (Definitely less than 9, ideally less than 5  pages. This is an  optional requirement but short and to the point is better);
   - Is there some  IMPORTANT paragraph buried in the body (when it really should be on p1)?
