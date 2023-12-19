@@ -1,8 +1,8 @@
 ---
 layout: default
-title: chieftains
+title: Chieftains
 nav_order: 3
-description: "chieftains"
+description: "Chieftains"
 ---
 
 # Senior Editors
@@ -17,8 +17,8 @@ description: "chieftains"
 | tribunal          | sounding board for intricated review |  Tim,Hoa,Greg     |
 |social media posts |                                      |  Greg     |
 | desk rejects      |                                      |       |
-| alarm clock       | monitors for slow review cycles      |       |
-| special issues assessment | reviews special issue proposals (*) |     |
+| alarm clock       | monitors for slow review cycles      |  Hoa     |
+| special issues assessment | reviews special issue proposals (*) |  Hoa   |
 
 
 (*) Usually handled with a single review rule: do the guest editors have any background publishing in [SE venues](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_softwaresystems)?
