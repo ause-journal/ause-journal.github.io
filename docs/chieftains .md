@@ -14,8 +14,8 @@ description: "Chieftains"
 
 | What              | How                                | Who    |
 |-------------------|--------------------------------------|-------|
-| tribunal          | sounding board for intricated review |  Tim,Hoa,Greg?     |
-|social media posts |                                      |  Greg?     |
+| tribunal          | sounding board for intricated review |  Tim,Hoa,Greg     |
+|social media posts |                                      |  Greg     |
 | desk rejects      |                                      |  Greg?      |
 | alarm clock       | monitors for slow review cycles      |  Hoa     |
 | special issues assessment | reviews special issue proposals (*) |  Hoa   |
