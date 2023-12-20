@@ -24,7 +24,7 @@ description: "Chieftains"
 (*) Usually handled with a single review rule: do the guest editors have any background publishing in [SE venues](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_softwaresystems)?
 
 
-## Social Media post topics 
+## (+) Social Media post topics 
 
 Includes, but not limited to:
 
