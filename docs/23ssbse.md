@@ -43,7 +43,7 @@ February 28, 2024
 
 ## How to Submit
 
-Open call.
+Open call: [https://link.springer.com/collections/iagebdeegi](https://link.springer.com/collections/iagebdeegi)
 
 
 ## Editor
