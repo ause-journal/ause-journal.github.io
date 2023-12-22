@@ -15,10 +15,10 @@ description: "Chieftains"
 | What              | How                                | Who    |
 |-------------------|--------------------------------------|-------|
 | tribunal          | sounding board for intricated review |  Tim,Hoa,Greg     |
-|[social media posts](#social-media-post-topics) |                                      |  Greg     |
-| [desk rejects](#desk-rejects)    |                                      |  Greg     |
-| alarm clock       | monitors for slow review cycles      |  Hoa     |
-| [special issues assessment](#special-issues-assessment) | reviews special issue proposals (*) |  Hoa   |
+|[social media posts](#social-media-post-topics) |                                      |  Tim,Greg     |
+| [desk rejects](#desk-rejects)    |                                      |  Tim,Greg     |
+| alarm clock       | monitors for slow review cycles      |  Tim,Hoa     |
+| [special issues assessment](#special-issues-assessment) | reviews special issue proposals (*) |  Tim,Hoa   |
 
 
 ## Special Issues Assessment
