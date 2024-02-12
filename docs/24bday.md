@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Call for papers 30 years of AUSE"
-description: "Anniversary Issue- 30 years of AUSE"
+title: "CFP: 30 years of AUSE"
+description: "FP: Anniversary Issue, 30 years of AUSE"
 nav_order: 3
 ---
 
