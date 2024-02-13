@@ -5,23 +5,23 @@ description: "FP: Anniversary Issue, 30 years of AUSE"
 nav_order: 3
 ---
 
-# Call for papers, AUSE Anniversary Issue: 30 years of ASE.
+# Call for papers, AUSE Anniversary Issue: 30 years of AUSE.
 {: .fs-9 }
 
-Submission is by invitation only.
+**Submission is by invitation only.**
 
-2024 marks the 30th year of the ASE journal For that celebrartion, we invite the authors of highly cited ASE articles to offer a retrospective on:
- 
-- What   did they achieve? (sumamry of old)?
-- What has changed in the field X of that paper since the paper was published?
-- What are the research challenges in that field X that should be tackled in the next 30 years? 
+2024 marks the 30th anniversary of the AUSE journal. To celebrate, we are arranging a special issue where we invite the authors of highly-cited AUSE articles to offer a retrospective on the field that their original article was related to.
+
+Specifically, submissions should cover:
+- What did the authors achieve?
+    - This includes a summary of the original article, as well as an examination of the impact of that work (e.g., how did the original work inspire citing papers).
+- What has changed in the broader research field of the original paper since it was published?
+- What are the research challenges in the broader research field of the original paper that should be tackled in the next 30 years? 
 
 ## Page Length
 
-- Retrosepctives can be as short as 2 pages
-- Longer papers will be considered, if their content offers a deep understanding of that area of research.
-
- 
+- Retrosepctives can be as short as 2 pages.
+- Longer papers are welcome, as long as their content offers a deep understanding of that area of research.
 
 ## Deadline
 
