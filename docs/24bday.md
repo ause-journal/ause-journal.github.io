@@ -20,7 +20,7 @@ Specifically, submissions should cover:
 
 ## Page Length
 
-- Retrosepctives can be as short as 2 pages.
+- Retrosepctives can be as short as 3 pages.
 - Longer papers are welcome, as long as their content offers a deep understanding of that area of research.
 
 ## Deadline
