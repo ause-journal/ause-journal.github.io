@@ -16,7 +16,7 @@ Specifically, submissions should cover:
 - What did the authors achieve?
     - This includes a summary of the original article, as well as an examination of the impact of that work (e.g., how did the original work inspire citing papers).
 - What has changed in the broader research field of the original paper since it was published?
-- What are the research challenges in the broader research field of the original paper that should be tackled in the next 30 years? 
+- What are the research challenges in the broader research field of the original paper that should be tackled in the next 5,10,15,30 years? 
 
 ## Page Length
 
