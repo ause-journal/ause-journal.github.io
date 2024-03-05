@@ -11,6 +11,7 @@ description: "Chieftains"
 - Tim Menzies: Editor-in-Chief
 - Hoa Dam: Deputy Editor-in-Chief
 - Greg Gay:  Deputy Editor-in-Chief
+- Justyna Petke: Deputy Editor-in-Chief
 
 | What              | How                                | Who    |
 |-------------------|--------------------------------------|-------|
@@ -19,7 +20,7 @@ description: "Chieftains"
 | [desk rejects](#desk-rejects)    |                                      |  Tim,Greg     |
 | alarm clock       | monitors for slow review cycles      |  Tim,Hoa     |
 | [special issues assessment](#special-issues-assessment) | reviews special issue proposals (*) |  Tim,Hoa   |
-
+| special issue proposals | reaches out to selected SE event organisers to run SIs | Justyna |
 
 ## Special Issues Assessment
 
