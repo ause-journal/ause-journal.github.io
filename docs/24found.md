@@ -79,8 +79,7 @@ Journal Round Submission Due: Dec 15, 2024
 ## Editors
 
  
-Cuiyun Gao, Harbin Institute of Technology, Shenzhen,    xinghu@zju.edu.cn     
+Cuiyun Gao, Harbin Institute of Technology, Shenzhen, xinghu@zju.edu.cn     
 Xing Hu, Zhejiang University    
 Xin Xia, Huawei   
-Ge Li, Peking University     
-Justyna Petke
+Ge Li, Peking University
