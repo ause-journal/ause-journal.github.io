@@ -69,7 +69,7 @@ The special issue welcomes submissions on a wide range of topics, including but 
 
 ## How to Submit
 
-TBA
+[https://link.springer.com/collections/eegbgjiiee](https://link.springer.com/collections/eegbgjiiee)
 
 ## Deadline
 
