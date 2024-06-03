@@ -72,7 +72,7 @@ possible journal publication, and we do not allow for the new submission for the
 Chinasoft Conference Round Submission Due: Aug 23, 2024    
 Chinasoft Conference Round Review Due: Oct 15, 2024    
 Chinasoft Conference Round Revision Due: Nov 15, 2024   
-Journal Round Submission Due: Dec 15, 2024
+Journal Round Submission Due: Dec 15, 2024, submission link: [https://link.springer.com/collections/gcbheddeij](https://link.springer.com/collections/gcbheddeij)
  
 
 
