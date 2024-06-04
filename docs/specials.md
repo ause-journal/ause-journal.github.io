@@ -2,7 +2,7 @@
 layout: default
 title: "CFP: Special Issues"
 description: "CFP: Special Issues"
-nav_order: 1
+nav_order: 2
 ---
 
 ## Special Issues 
