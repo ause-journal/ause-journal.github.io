@@ -41,7 +41,7 @@ This is a closed call only for the participants of the APR workshop, and we do n
 
 ## Editors
 
-Sergey Mechtaev, University College London, s.mechtaev@ucl.ac.uk
+Sergey Mechtaev, University College London, mechtaev@gmail.com
 
 He Ye, Carnegie Mellon University
 
