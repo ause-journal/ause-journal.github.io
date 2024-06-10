@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CFP: Automated Program Repair"
+title: "CFP: Automated Program Repair, 2025"
 description: "Call for papers, Automated Program Repair, 2025"
 
 nav_order: 3
@@ -29,9 +29,10 @@ This issue will explore topics related but not limited to:
 
 This issue is done in coordination with the International Workshop on Automated Program Repair (APR) 2025. In the workshop round, the authors will submit papers to HotCRP ([https://apr25.hotcrp.com](https://apr25.hotcrp.com)). Each accepted submission must be accompanied by a registration of at least one author and presented at APR 2025. The selected best papers from the APR workshop will be invited to submit their revisions to the Automated Software Engineering journal. Note that only the full papers (not short position papers) will be considered for publication in the journal. The authors should carefully address the comments from the workshop reviewers and prepare a detailed response letter. The revised papers will be reviewed by the same reviewers. 
 
-## Deadline
+## Deadline
 
 Workshop Round Submission Due: 11 November 2024
+
 Journal Round Submission Due:  1 February 2025
 
 ## How to Submit
@@ -41,6 +42,7 @@ This is a closed call only for the participants of the APR workshop, and we do n
 ## Editors
 
 Sergey Mechtaev, University College London, s.mechtaev@ucl.ac.uk
-He Ye, Carnegie Mellon University
-Shin Hwei Tan, Concordia University
 
+He Ye, Carnegie Mellon University
+
+Shin Hwei Tan, Concordia University
