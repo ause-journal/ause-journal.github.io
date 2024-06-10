@@ -1,6 +1,6 @@
 ---
 layout: default
-xtitle: "CFP: NIER@ASE Track in the Automated Software Engineering Journal"
+title: "CFP: NIER@ASE Track in the ASE Journal"
 description: "CFP: NIER@ASE Track in the Automated Software Engineering Journal"
 nav_order: 3
 ---

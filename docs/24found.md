@@ -1,6 +1,6 @@
 ---
 layout: default
-xtitle: "CFP: Foundation Models for SE"
+title: "CFP: Foundation Models for SE"
 description: "CFP: Foundation Models for SE "
 nav_order: 3
 ---

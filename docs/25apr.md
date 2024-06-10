@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CFP: Automated Program Repair, 2025"
+title: "CFP: Automated Program Repair"
 description: "Call for papers, Automated Program Repair, 2025"
 
 nav_order: 3
