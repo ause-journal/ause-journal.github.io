@@ -18,4 +18,4 @@ Special issue proposals should
 
 Only proposals certified by one of the members of the associate editorial board will be considered for a special issue of the journal.
 
-For more information on ASE special issues, please contact the special isses deputy editor, Dr. Justyna Petke: <j.petke@ucl.ac.uk>
+For more information on ASE special issues, please contact the special isses deputy editor, Prof. Justyna Petke: <j.petke@ucl.ac.uk>
