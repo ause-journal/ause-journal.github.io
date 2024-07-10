@@ -30,7 +30,7 @@ All accepted papers from the [RENE workshop at ASE](https://conf.researchr.org/t
 
 ## Deadline
 
-TBD
+Jan 31, 2025
 
 ## Guest editors
 
