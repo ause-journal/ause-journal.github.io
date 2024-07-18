@@ -8,7 +8,7 @@ nav_order: 2
 # Call for papers, Future's Track
 {: .fs-9 }
 
-- A future's paper is an invited "vision statement"  in a special collection called "the future"
+- A future's paper is an invited "vision statement" about the future of software engineering in a special collection called "the future"
   - A carefully stated opinion, perhaps yet without supporting experimentation. For example, see 
     [Edgar Dijkstra: Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf). 
 - 3 pages minimum, 8 pages max ( by invitation  from an Associated Editor_
@@ -30,6 +30,8 @@ nav_order: 2
 
 Authors of futures papers should apply the following checklist before submission.
 
+- [ ] Is the work relevant to software engineering? (Mandatory)
+- [ ] Is the paper 3-8 pages long?
 - [ ]  Is the paper current and timely? (We don’t really want to publish something that could  have been written 5,10 years ago)
 - [ ] Is it a useful vision:? (Essential requirement)
 - [ ] Is it a breathtaking vision? (Optional, but desirable).
