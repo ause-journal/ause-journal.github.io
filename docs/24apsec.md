@@ -53,7 +53,7 @@ This special issue is aimed at inviting high-quality and extended papers from AP
 
 ## How to Submit
 
-Submissions must be original and not published or under review elsewhere. However, some overlap with prior work is expected due to the nature of the call. Papers should be submitted via Springer's website: TBA
+Submissions must be original and not published or under review elsewhere. However, some overlap with prior work is expected due to the nature of the call. Papers should be submitted via Springer's website: [https://link.springer.com/collections/ehhiiecgcf](https://link.springer.com/collections/ehhiiecgcf)
 
 ## Deadlines
 
