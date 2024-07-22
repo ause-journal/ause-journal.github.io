@@ -26,7 +26,7 @@ Specifically, this issue explores the following, non-exhaustive list of topics:
 
 Submissions must be original and not published or under review elsewhere. However, some overlap with prior work is expected due to the nature of the call.
 
-All accepted papers from the [RENE workshop at ASE](https://conf.researchr.org/track/ase-2024/ase-2024--workshop--rene) will be invited to submit extended versions of their papers to the Special Issue. Alternatively, authors may submit solely to the Special Issue on the [Springer website](<< TODO >>).
+All accepted papers from the [RENE workshop at ASE](https://conf.researchr.org/track/ase-2024/ase-2024--workshop--rene) will be invited to submit extended versions of their papers to the Special Issue. Alternatively, authors may submit solely to the Special Issue on the Springer's website: [https://link.springer.com/collections/hagebcgebi](https://link.springer.com/collections/hagebcgebi).
 
 ## Deadline
 
