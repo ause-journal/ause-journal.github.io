@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "CFP: "Special issue on virtual and augmented reality software engineering
-description: "CFP: "Special issue on virtual and augmented reality software engineering
+title: "CFP: Special issue on virtual and augmented reality software engineering"
+description: "CFP: Special issue on virtual and augmented reality software engineering"
 nav_order: 3
 ---
 
