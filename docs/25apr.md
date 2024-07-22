@@ -38,6 +38,7 @@ Journal Round Submission Due:  1 February 2025
 ## How to Submit
 
 This is a closed call only for the participants of the APR workshop, and we do not allow new submission for the journal round.
+Submission link: [https://link.springer.com/collections/febjajaghc](https://link.springer.com/collections/febjajaghc)
 
 ## Editors
 
