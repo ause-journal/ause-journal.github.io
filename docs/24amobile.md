@@ -29,7 +29,7 @@ Areas of interest include but are not restricted to:
 
 ## How to Submit
 
-Papers should be submitted via Springer's website: TBA
+Papers should be submitted via Springer's website: [https://link.springer.com/collections/ihiejebagd](https://link.springer.com/collections/ihiejebagd)
 
 ## Deadline
 
