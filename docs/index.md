@@ -9,7 +9,8 @@ permalink: /
 # Automated SE Journal<br>Companion Site
 {: .fs-9 }
 
-<img width=150 align=right src="/img/logo.png">
+<img width=250 align=right src="https://github.com/user-attachments/assets/29bdf156-55a1-49eb-b74f-f1d8745acdc8">
+ 
 
 This journal welcomes papers that describe some automated task where:
 
