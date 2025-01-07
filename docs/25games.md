@@ -49,11 +49,12 @@ Topics of interest include (but are not limited to):
 ## Deadline
 
 Open date: May 1st, 2025 (after the workshop camera-ready)
+
 Deadline: September 30th, 2025 (5 months total)
 
 ## How to Submit
 
-Submission link: TBA
+Submission link: [https://link.springer.com/collections/dbcdgeidcj](https://link.springer.com/collections/dbcdgeidcj)
 
 ## Guest Editors
 
