@@ -56,6 +56,14 @@ Deadline: September 30th, 2025 (5 months total)
 
 Submission link: [https://link.springer.com/collections/dbcdgeidcj](https://link.springer.com/collections/dbcdgeidcj)
 
+---
+
+{: .warning }  
+> As of Dec 2024, the following two special rules will apply. <br>(1) Submissions are no longer allowed, generated from Msword (submit pdfs generated from the
+[Springer Latex template files](https://resource-cms.springernature.com/springer-cms/rest/v1/content/18782940/data/v11)). For authors unfamilar with Latex, we use and recommend the on-line tool [http://overleaf.com](overleaf.com). <br>
+(2) Use of the NASA data sets from the 1990s (PC1, JM1, etc) is no longer acceptable. Please use tools like (e.g.) CommitGuru to mine (e.g.) Github to find data.
+
+---
 ## Guest Editors
 
 - Cristiano Politowski, Ontario Tech University

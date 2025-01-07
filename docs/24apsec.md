@@ -55,6 +55,14 @@ This special issue is aimed at inviting high-quality and extended papers from AP
 
 Submissions must be original and not published or under review elsewhere. However, some overlap with prior work is expected due to the nature of the call. Papers should be submitted via Springer's website: [https://link.springer.com/collections/ehhiiecgcf](https://link.springer.com/collections/ehhiiecgcf)
 
+---
+
+{: .warning }  
+> As of Dec 2024, the following two special rules will apply. <br>(1) Submissions are no longer allowed, generated from Msword (submit pdfs generated from the
+[Springer Latex template files](https://resource-cms.springernature.com/springer-cms/rest/v1/content/18782940/data/v11)). For authors unfamilar with Latex, we use and recommend the on-line tool [http://overleaf.com](overleaf.com). <br>
+(2) Use of the NASA data sets from the 1990s (PC1, JM1, etc) is no longer acceptable. Please use tools like (e.g.) CommitGuru to mine (e.g.) Github to find data.
+
+---
 ## Deadlines
 
 - Submission Deadline: Feb 6, 2025

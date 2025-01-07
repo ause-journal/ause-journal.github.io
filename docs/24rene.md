@@ -28,6 +28,14 @@ Submissions must be original and not published or under review elsewhere. Howeve
 
 All accepted papers from the [RENE workshop at ASE](https://conf.researchr.org/track/ase-2024/ase-2024--workshop--rene) will be invited to submit extended versions of their papers to the Special Issue. Alternatively, authors may submit solely to the Special Issue on the Springer's website: [https://link.springer.com/collections/hagebcgebi](https://link.springer.com/collections/hagebcgebi).
 
+---
+
+{: .warning }  
+> As of Dec 2024, the following two special rules will apply. <br>(1) Submissions are no longer allowed, generated from Msword (submit pdfs generated from the
+[Springer Latex template files](https://resource-cms.springernature.com/springer-cms/rest/v1/content/18782940/data/v11)). For authors unfamilar with Latex, we use and recommend the on-line tool [http://overleaf.com](overleaf.com). <br>
+(2) Use of the NASA data sets from the 1990s (PC1, JM1, etc) is no longer acceptable. Please use tools like (e.g.) CommitGuru to mine (e.g.) Github to find data.
+
+---
 ## Deadline
 
 Jan 31, 2025
