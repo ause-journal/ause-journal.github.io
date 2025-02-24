@@ -30,7 +30,7 @@ We welcome papers that cover a wide range of topics, including but not limited t
 
 ## How to Submit
 
-Submission link: TBA
+Submission link: https://link.springer.com/collections/ajededbada[](https://link.springer.com/collections/ajededbada)
 
 ---
 

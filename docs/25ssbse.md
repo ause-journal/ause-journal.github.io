@@ -41,7 +41,7 @@ Submission Deadline: 5th of June
 
 ## How to Submit
 
-Open call: TBA
+Open call: [https://link.springer.com/collections/gihcjgebij](https://link.springer.com/collections/gihcjgebij)
 
 ## Editor
 

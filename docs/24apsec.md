@@ -65,7 +65,7 @@ Submissions must be original and not published or under review elsewhere. Howeve
 ---
 ## Deadlines
 
-- Submission Deadline: Feb 6, 2025
+- Submission Deadline: Feb 28, 2025
 - Review deadline: Apr 6, 2025
 - Author revision: May 20th, 2025
 - Final notification: June 20th, 2025
