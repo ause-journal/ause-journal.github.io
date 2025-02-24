@@ -44,9 +44,8 @@ TBA
 ## Editor
 
 Guest editor list: 
-- Ipek Ozkaya | ozkaya@sei.cmu.edu
-| Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA USA
-- Anita Carleton | adc@sei.cmu.edu | Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA USA
-- Heiko Koziolek | heiko@koziolek.de | Corporate Research, ABB, Ladenburg, Germany
-- David Lo | davidlo@smu.edu.sg | Singapore Management University, Singapore
-- Douglas C. Schmidt | dcschmidt@wm.edu | William & Mary, Williamsburg, VA, US
+- Ipek Ozkaya, ozkaya@sei.cmu.edu, Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA USA
+- Anita Carleton, adc@sei.cmu.edu, Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA USA
+- Heiko Koziolek, heiko@koziolek.de, Corporate Research, ABB, Ladenburg, Germany
+- David Lo, davidlo@smu.edu.sg, Singapore Management University, Singapore
+- Douglas C. Schmidt, dcschmidt@wm.edu, William & Mary, Williamsburg, VA, US
