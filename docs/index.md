@@ -31,6 +31,13 @@ benchmarks of the new method against some prior state-of-the-art.
 
 <br clear=all>
 
+<details>
+<summary>Current Special Tracks and Special Issues</summary>
+
+    
+
+
+
 ---
 
 ## Current Special Issues
@@ -60,7 +67,7 @@ always | Literature Review |  |  |
 always | Less is More |  |Tim Menzies | timm@ieee.org
 
 
-
+</details>
 
 ---
 ### Contributing
