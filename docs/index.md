@@ -33,8 +33,36 @@ benchmarks of the new method against some prior state-of-the-art.
 
 ---
 
+## Current Special Issues
+
+due | title |   guest editors| contact
+----|------|------------------|-----------------
+Dec15,2025| ChinaSoft: Foundation Models for SE | Cuiyun Gao |xinghu@zju.edu.cn    
+Jan 31,2025| Call for papers, Replications and Negative Results in SE| Rahul Yedida | rahul@ryedida.me
+Feb5'2025  | Search-Based Software Engineering in the Era of AI-Driven Systems|   Gunel Jahangirova | |
+ Feb'28,2025| Extended Papers from APSEC 2024| | Meng Yan | mengy@cqu.edu.cn,
+Mar'31,2025 |  Advances in Mobile App Analysis and Systems|    Guozhu Meng et al.| Feb,2025  | NIER@ASE | |John Businge and Denys Poshyvanyk
+Jul1,2025 | A Special Issue on Artificial Intelligence for Integrated Development Environments (AI-IDE)| |  Kla Tantithamthavorn
+Sept29,2025 |  Automated and verifiable Software sYstem DEvelopment (ASYDE), 2024|  Gianluca Filippone et al. | gianluca.filippone@gssi.it 
+Oct14,2025 | Special Issue on Innovative Frontiers in Automated Software Engineering| | Filomena Ferrucci | 
+Oct31,2025|  Envisioning the AI-Augmented Software Development Life Cycle |   Ipek Ozkaya et al. | ozkaya@sei.cmu.edu  Sept'20,2025| Special Issue on Software Engineering for Games| | Cristiano Politowski| 
 
 
+## Current Special Tracks 
+
+due | title | sub-title| guest editors| contact
+----|------|-----------|--------------|-----------------
+always| Future's Track | Future of generative AI+ SE | Xin Xia| xin.xia.zju@gmail.com
+always |Future's Track | Future of automation and Qualitative SE| John Grundy | john.grundy@monash.edu
+always | Future's Track | Future of SE development | Burak Turhan|  turhanb@computer.org
+always | Future's Track | Future of software analytics | Hongyu Zhang| Hongyu.Zhang@newcastle.edu.au
+always | Literature Review |  |  | 
+always | Less is More |  |Tim Menzies | timm@ieee.org
+
+
+
+
+---
 ### Contributing
 
 When contributing to this repository, please first discuss the
