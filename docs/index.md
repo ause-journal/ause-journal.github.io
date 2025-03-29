@@ -52,6 +52,8 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 {% endfor %}
 </ul>
 
+---
+
 ## Current Special Issues
 
 
