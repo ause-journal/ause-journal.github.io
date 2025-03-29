@@ -31,9 +31,26 @@ benchmarks of the new method against some prior state-of-the-art.
 
 <br clear=all>
 
-<details>
-<summary>Current Special Tracks and Special Issues</summary>
+ 
 
+---
+### Contributing
+
+When contributing to this repository, please first discuss the
+change you wish to make via issue, email, or any other method with
+the owners of this repository before making a change. Read more
+about becoming a contributor in [our GitHub
+repo](https://github.com/ause-journal/ause-journal.github.io)
+
+#### Thank you to our contributors:
+
+<ul class="list-style-none">
+{% for contributor in site.github.contributors %}
+  <li class="d-inline-block mr-1">
+     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"></a>
+  </li>
+{% endfor %}
+</ul>
 
 ## Current Special Issues
 
@@ -63,27 +80,7 @@ benchmarks of the new method against some prior state-of-the-art.
 |Literature Review |  |  | 
 |Less is More |  |Tim Menzies | timm@ieee.org|
 
-
-</details>
-
----
-### Contributing
-
-When contributing to this repository, please first discuss the
-change you wish to make via issue, email, or any other method with
-the owners of this repository before making a change. Read more
-about becoming a contributor in [our GitHub
-repo](https://github.com/ause-journal/ause-journal.github.io)
-
-#### Thank you to our contributors:
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"></a>
-  </li>
-{% endfor %}
-</ul>
+ 
 
 
 
