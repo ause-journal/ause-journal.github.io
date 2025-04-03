@@ -45,8 +45,9 @@ Topics of interest include, but are not limited to:
 
 ## Deadline
 
-14 Oct, 2025: Submission deadline;
-13 Jan, 2026: Authors notification.
+21 July 2025: Submission deadline
+
+17 November 2025: Authors notification
 
 ---
 
@@ -62,6 +63,8 @@ Topics of interest include, but are not limited to:
 Submitted papers should present original, unpublished work, relevant to one of the topics of the Special Issue. All submitted papers will be evaluated on the basis of relevance, significance of contribution, technical quality, scholarship, and quality of presentation, by at least two independent reviewers. It is the policy of the journal that no submission, or substantially overlapping submission, be published or be under review at another journal or conference at any time during the review process.
 
 The call for this special issue is an open call. In addition, the authors with an accepted paper to FSE 2025 - IVR Track (https://conf.researchr.org/track/fse-2025/fse-2025-ideas-visions-and-reflections) are invited to submit extended versions of their work. To comply with the goals of a journal publication, we are asking to revise and substantially extend original FSE 2025 papers. Some possible extensions can include deeper theoretical development, additional empirical validation, exploration of broader implications, or connections to related research areas not covered in the conference paper. Revised papers should explicitly explain how they extend the original FSE 2025 papers.
+
+Submission link: TBA [https://link.springer.com/collections/idcadeffac](https://link.springer.com/collections/idcadeffac)
 
 
 ## Editor

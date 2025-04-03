@@ -59,17 +59,17 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 
 |due | title |   guest editors| contact|
 |----|------|------------------|-----------------|
-|Dec15,2025| ChinaSoft: Foundation Models for SE | Cuiyun Gao et al. |xinghu@zju.edu.cn  |  
-|Jan 31,2025| Call for papers, Replications and Negative Results in SE| Rahul Yedida et al. | rahul@ryedida.me|
-|June5'2025  | Search-Based Software Engineering in the Era of AI-Driven Systems|   Gunel Jahangirova and Foutse Khomh| gunel.jahangirova@kcl.ac.uk |
+|Dec'15,2024| ChinaSoft: Foundation Models for SE | Cuiyun Gao et al. |xinghu@zju.edu.cn  |  
+|Jan'31,2025| Call for papers, Replications and Negative Results in SE| Rahul Yedida et al. | rahul@ryedida.me|
 | Feb'28,2025| Extended Papers from APSEC 2024| Meng Yan et al. | mengy@cqu.edu.cn|
-|Mar'31,2025 |  Advances in Mobile App Analysis and Systems| Xiao Chen et al.| Xiao.Chen@newcastle.edu.au |
 |Feb,2025  | NIER@ASE | John Businge and Denys Poshyvanyk| john.businge@unlv.edu |
-|Jul1,2025 | A Special Issue on Artificial Intelligence for Integrated Development Environments (AI-IDE)|  Kla Tantithamthavorn et al. | Chakkrit@monash.edu |
-|Sept29,2025 |  Automated and verifiable Software sYstem DEvelopment (ASYDE), 2024|  Gianluca Filippone et al. | gianluca.filippone@gssi.it |
-|Oct14,2025 | Special Issue on Innovative Frontiers in Automated Software Engineering| Filomena Ferrucci et al.| fferrucci@unisa.it |
-|Oct31,2025|  Envisioning the AI-Augmented Software Development Life Cycle |   Ipek Ozkaya et al. | ozkaya@sei.cmu.edu  |
+|Mar'31,2025 |  Advances in Mobile App Analysis and Systems| Xiao Chen et al.| Xiao.Chen@newcastle.edu.au |
+|June'5,2025  | Search-Based Software Engineering in the Era of AI-Driven Systems|   Gunel Jahangirova and Foutse Khomh| gunel.jahangirova@kcl.ac.uk |
+|Jul'1,2025 | A Special Issue on Artificial Intelligence for Integrated Development Environments (AI-IDE)|  Kla Tantithamthavorn et al. | Chakkrit@monash.edu |
+|Jul'21,2025 | Special Issue on Innovative Frontiers in Automated Software Engineering| Filomena Ferrucci et al.| fferrucci@unisa.it |
 |Sept'20,2025| Special Issue on Software Engineering for Games| Cristiano Politowski et al. | cristiano.politowski@ontariotechu.ca |
+|Sep'29,2025 |  Automated and verifiable Software sYstem DEvelopment (ASYDE), 2024|  Gianluca Filippone et al. | gianluca.filippone@gssi.it |
+|Oct'31,2025|  Envisioning the AI-Augmented Software Development Life Cycle |   Ipek Ozkaya et al. | ozkaya@sei.cmu.edu  |
 
 ## Current Special Tracks 
 
