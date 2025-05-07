@@ -64,7 +64,7 @@ Submitted papers should present original, unpublished work, relevant to one of t
 
 The call for this special issue is an open call. In addition, the authors with an accepted paper to FSE 2025 - IVR Track (https://conf.researchr.org/track/fse-2025/fse-2025-ideas-visions-and-reflections) are invited to submit extended versions of their work. To comply with the goals of a journal publication, we are asking to revise and substantially extend original FSE 2025 papers. Some possible extensions can include deeper theoretical development, additional empirical validation, exploration of broader implications, or connections to related research areas not covered in the conference paper. Revised papers should explicitly explain how they extend the original FSE 2025 papers.
 
-Submission link: TBA [https://link.springer.com/collections/idcadeffac](https://link.springer.com/collections/idcadeffac)
+Submission link: [https://link.springer.com/collections/idcadeffac](https://link.springer.com/collections/idcadeffac)
 
 
 ## Editor
