@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CFP: SSBSE"
+title: "CFP: SSBSE in the AI Era"
 description: "CFP: Search-Based Software Engineering in the Era of AI-Driven Systems"
 nav_order: 3
 ---
