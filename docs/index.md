@@ -59,11 +59,6 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 
 |due | title |   guest editors| contact|
 |----|------|------------------|-----------------|
-|Dec'15,2024| ChinaSoft: Foundation Models for SE | Cuiyun Gao et al. |xinghu@zju.edu.cn  |  
-|Jan'31,2025| Call for papers, Replications and Negative Results in SE| Rahul Yedida et al. | rahul@ryedida.me|
-| Feb'28,2025| Extended Papers from APSEC 2024| Meng Yan et al. | mengy@cqu.edu.cn|
-|Feb,2025  | NIER@ASE | John Businge and Denys Poshyvanyk| john.businge@unlv.edu |
-|Mar'31,2025 |  Advances in Mobile App Analysis and Systems| Xiao Chen et al.| Xiao.Chen@newcastle.edu.au |
 |June'5,2025  | Search-Based Software Engineering in the Era of AI-Driven Systems|   Gunel Jahangirova and Foutse Khomh| gunel.jahangirova@kcl.ac.uk |
 |Jul'1,2025 | A Special Issue on Artificial Intelligence for Integrated Development Environments (AI-IDE)|  Kla Tantithamthavorn et al. | Chakkrit@monash.edu |
 |Jul'21,2025 | Special Issue on Innovative Frontiers in Automated Software Engineering| Filomena Ferrucci et al.| fferrucci@unisa.it |
