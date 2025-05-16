@@ -65,6 +65,8 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 | Sept'20,2025 | Special Issue on Software Engineering for Games| Cristiano Politowski et al. | cristiano.politowski@ontariotechu.ca |
 | Sep'29,2025 |  Automated and verifiable Software sYstem DEvelopment (ASYDE), 2024|  Gianluca Filippone et al. | gianluca.filippone@gssi.it |
 | Oct'31,2025 |  Envisioning the AI-Augmented Software Development Life Cycle |   Ipek Ozkaya et al. | ozkaya@sei.cmu.edu  |
+| Dec'31 2025 | Evaluation of Qualitative Aspects of Intelligent Software
+Assistants | Claudio Di Sipio et al. | claudio.disipio@univaq.it |
 | Mar'31,2026 | Advances and Applications in SSBSE | Man Zhang et al. | manzhang@buaa.edu.cn |
 
 ## Current Special Tracks 
