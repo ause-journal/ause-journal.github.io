@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CFP: EQUAISE 2025"
+title: "CFP: EQUISA 2025"
 description: "CFP: Evaluation of Qualitative Aspects of Intelligent Software
 Assistants"
 nav_order: 3
@@ -11,19 +11,21 @@ nav_order: 3
 
 With the growing complexity of modern software systems, software engineers need to cope with the so-called information overloading along the whole development lifecycle, spanning from the require- ment elicitation to the development of the actual system. In addition, fast-evolving technologies and frameworks are emerging daily. Therefore, non-expert users may struggle to express the requirements properly or select the proper third-party software libraries needed to implement a specific functionality. Such inconvenience impacts mainly the software design and construction phases, which means more than 50% of the effort made by the software engineers during the life of the project. Current software projects need to be easily scalable in order to reduce such maintenance costs.  To address these challenges, intelligent software assistants have been proposed to ease the burden of choice by providing a set of automated capabilities to help developers in several tasks, e.g., debugging, testing, navigating Q&A forums, and extracting information from open-source repositories. After an inference phase, the system can provide a set of valuable items, namely recommendations, according to the current task.  While traditional systems rely on curated knowledge bases as the primary foundation for their recommendation processes, the advent of cutting-edge AI models, or the so-called Large Language Models (LLMs) like those of the GPT family, is dramatically changing how these systems are designed, developed, and evaluated. Currently, IDEs like Visual Studio and Eclipse are being extended with LLM-based assistants, e.g., Copilot or Caret.  In this respect, a key point is to ensure a set of qualitative aspects that go beyond the accuracy of those assistants. Concretely, the provided items must be free from any kind of bias, ensure the user’s privacy, adhering software licenses, and, overall, contribute to building reliable and trustworthy software projects. This objective has been recently recognized by the European Commission, which proposed the AI Act, a dedicated standard for prominent AI-intensive systems providing a wide range of requirements, methodologies, and metrics focused on ensuring the mentioned qualitative aspects.  Thus, there is a need to assess the outcomes of intelligent software assistants by adhering to rigorous protocols and methodologies provided by the empirical software engineering field of study.  To this end, we propose a special issue for Automated Software Engineering that focuses on evaluating qualitative aspects in intelligent software assistants, with the aim of attracting researchers to this research field and creating a community to share and discuss new ideas and start collaborations.
 
-We expect that the special issue will provide contributions to:
 
-- Provide researchers with a comprehensive landscape of recent intelligent software assistants.
+Topics of interest include, but are not limited to, the following:
 
-- Investigate how generative AI models can be used in developing software assistant.
-
-- Reinforce the foundational knowledge around software assistants, with a focus on automated  evaluation, trustworthiness, and ethical considerations.
-
-- Identify new opportunities for applying software assistant research to address the most pressing challenges in modern software engineering.
-
-- Proposing new empirical methodologies, protocols, and metrics to evaluate qualitative aspects.
-
-- Analyze intelligent software assistants in industries and measure their conformity to recent qualitative standards.
+- Re-usage of AI-based tools, techniques, and methodologies in developing intelligent software assistants.
+- Foundational theories for automated software assistants to understand the underlying principles that can drive the development of more robust and generalizable recommendation systems in software engineering, with a focus on their evaluation.
+- Evaluating quality aspects of software assistants, e.g., explainability, transparency, and fairness, ensuring that software assistants produce reliable results.
+- New methods, tools, and frameworks to support development tasks, e.g., code-related tasks, automated classification of software artifacts, or code generation leveraging generative AI models.
+- Designing specific prompt engineering techniques for intelligent software assistants based on large language models to ensure quality aspects.
+- Data-driven approaches for software assistants: Leveraging large-scale data from open-source software (OSS) repositories, Q&A forums, and issue trackers to enhance the effectiveness of software assistants.
+- Integration with human-in-the-loop systems: Balancing automated recommendations with human expertise to improve decision-making in complex SE scenarios.
+- Adoption of advanced generative AI models, including LLMs, pre-trained models (PTMs) for software assistance, particularly emphasizing the quality effects.
+- Empirical studies and controlled experiments to assess qualitative aspects of intelligent systems.
+- Evolution of software systems and long-term recommendations, e.g., how software assistants can cope with the evolving nature of software systems and provide recommendations that consider long-term system maintainability and evolution.
+- Cross-disciplinary applications of software assistant: Studying how techniques from other do- mains, e.g., human-computer interaction, natural language processing, and social network analysis, can enhance their effectiveness and usability.
+- Surveys and experience reports on software assistants to support software engineering tasks, both in academic and industry use cases.
 
 
 ## Workshop Information
