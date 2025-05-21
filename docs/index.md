@@ -67,6 +67,7 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 | Oct'31,2025 |  Envisioning the AI-Augmented Software Development Life Cycle |   Ipek Ozkaya et al. | ozkaya@sei.cmu.edu  |
 | Dec'31 2025 | Evaluation of Qualitative Aspects of Intelligent Software Assistants | Claudio Di Sipio et al. | claudio.disipio@univaq.it |
 | Mar'31,2026 | Advances and Applications in SSBSE | Man Zhang et al. | manzhang@buaa.edu.cn |
+| Jul'31 2026 | Genetic Improvement | Oliver Krauss | oliver.krauss@fh-hagenberg.at |
 
 ## Current Special Tracks 
 
