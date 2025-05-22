@@ -17,7 +17,7 @@ description: "Chieftains"
 |-------------------|--------------------------------------|-------|
 | tribunal          | sounding board for intricated review |  Tim,Hoa,Greg     |
 |[social media posts](#social-media-post-topics) |                                      |  Tim,Greg     |
-| [desk rejects](#desk-rejects)    |                                      |  Tim,Greg     |
+| [desk rejects](#desk-rejects)    |                                      |  Tim,Greg,Sam     |
 | alarm clock       | monitors for slow review cycles      |  Tim,Hoa     |
 | [special issues](#special-issues) | reviews special issue proposals, reaches out to selected SE event organisers to run SIs |  Tim, Justyna   |
 
