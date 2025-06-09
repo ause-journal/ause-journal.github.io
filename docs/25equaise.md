@@ -48,6 +48,7 @@ Date completion of the review and revision process (final notification): Novembe
 
 All submitted papers will undergo a rigorous peer-review process and should adhere to the general principles of the Automated Software Engineering Journal, prepared according to the Guide for Authors https://ause-journal.github.io/cfp.html .  The authors of the papers accepted for the 1st International Workshop on Evaluation of Qualitative Aspects of Intelligent Software Assistant (EQUISA) will be invited to substantially extend and submit their work to the special issue. The workshop is in its first edition and is co-located with the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE 2025).  Submitted papers must be original, must not have been previously published, or be under consideration for publication elsewhere. In case a paper has already been presented at a conference, it should be extended by at least 30% new material before being submitted for this special issue. Authors must provide any previously published material relevant to their submission and describe the additions.  
 
+Submission link: [https://link.springer.com/collections/jgeecgjbec](https://link.springer.com/collections/jgeecgjbec)
 
 ## Editor
 

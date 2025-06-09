@@ -41,6 +41,8 @@ Submissions should conform to the journal's formatting requirements and will und
 
 Further details on submission deadlines and procedures will be announced soon.
 
+Submission link: [https://link.springer.com/collections/idabgjfabb](https://link.springer.com/collections/idabgjfabb)
+
 ## Editor
 
 Guest editor list: 
