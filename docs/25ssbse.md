@@ -30,7 +30,7 @@ We invite both theoretical and empirical contributions and strongly encourage su
 
 Opening date: 5th of February
 
-Submission Deadline: 5th of June
+Submission Deadline: 5th of September
 
 ---
 
