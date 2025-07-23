@@ -45,7 +45,7 @@ Topics of interest include, but are not limited to:
 
 ## Deadline
 
-21 July 2025: Submission deadline
+8 September 2025: Submission deadline
 
 17 November 2025: Authors notification
 
