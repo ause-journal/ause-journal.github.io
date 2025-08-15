@@ -60,7 +60,6 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 |due | title |   guest editors| contact|
 |----|------|------------------|-----------------|
 | Sep'5,2025 | Search-Based Software Engineering in the Era of AI-Driven Systems|   Gunel Jahangirova and Foutse Khomh | gunel.jahangirova@kcl.ac.uk |
-| Jul'1,2025 | A Special Issue on Artificial Intelligence for Integrated Development Environments (AI-IDE)|  Kla Tantithamthavorn et al. | Chakkrit@monash.edu |
 | Sep'8,2025 | Special Issue on Innovative Frontiers in Automated Software Engineering| Filomena Ferrucci et al.| fferrucci@unisa.it |
 | Sept'20,2025 | Special Issue on Software Engineering for Games| Cristiano Politowski et al. | cristiano.politowski@ontariotechu.ca |
 | Sep'29,2025 |  Automated and verifiable Software sYstem DEvelopment (ASYDE), 2024|  Gianluca Filippone et al. | gianluca.filippone@gssi.it |
