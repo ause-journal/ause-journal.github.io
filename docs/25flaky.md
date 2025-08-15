@@ -28,6 +28,7 @@ Topics of interest:
 
 Opening date for submissions: 1 September 2025
 
+Please submit via [Springer](https://link.springer.com/collections/djgdjjdcch).
 
 ## Editors
 
