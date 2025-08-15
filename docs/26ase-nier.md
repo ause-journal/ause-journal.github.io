@@ -70,7 +70,7 @@ Submission Deadline: 28 February 2026
 
 ## How to Submit
 
-TBD
+Please submit via [Springer](https://link.springer.com/collections/efdhdhjajj)
 
 ## Editor
 
