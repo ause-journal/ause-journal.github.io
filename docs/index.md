@@ -61,7 +61,7 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 |----|------|------------------|-----------------|
 | Sep'5,2025 | Search-Based Software Engineering in the Era of AI-Driven Systems|   Gunel Jahangirova and Foutse Khomh | gunel.jahangirova@kcl.ac.uk |
 | Sep'8,2025 | Special Issue on Innovative Frontiers in Automated Software Engineering| Filomena Ferrucci et al.| fferrucci@unisa.it |
-| Sept'20,2025 | Special Issue on Software Engineering for Games| Cristiano Politowski et al. | cristiano.politowski@ontariotechu.ca |
+| Oct'31,2025 | Special Issue on Software Engineering for Games| Cristiano Politowski et al. | cristiano.politowski@ontariotechu.ca |
 | Sep'29,2025 |  Automated and verifiable Software sYstem DEvelopment (ASYDE), 2024|  Gianluca Filippone et al. | gianluca.filippone@gssi.it |
 | Oct'31,2025 |  Envisioning the AI-Augmented Software Development Life Cycle |   Ipek Ozkaya et al. | ozkaya@sei.cmu.edu  |
 | Dec'1 2025 | Flaky Tests and Beyond: Confronting Non-Determinism in Automated Testing | Owain Parry and Wing Lam | o.b.parry@sheffield.ac.uk |
