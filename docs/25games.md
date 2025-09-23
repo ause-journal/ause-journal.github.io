@@ -50,7 +50,7 @@ Topics of interest include (but are not limited to):
 
 Open date: May 1st, 2025 (after the workshop camera-ready)
 
-Deadline: September 30th, 2025 (5 months total)
+Deadline: October 31st, 2025 
 
 ## How to Submit
 
