@@ -37,7 +37,7 @@ Topic of interest:
 
 ## Deadline
 
-29 September 2025
+29 October 2025
 
 ## How to Submit
 
