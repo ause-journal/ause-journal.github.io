@@ -59,11 +59,9 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 
 |due | title |   guest editors| contact|
 |----|------|------------------|-----------------|
-| Oct'31,2025 | Special Issue on Software Engineering for Games| Cristiano Politowski et al. | cristiano.politowski@ontariotechu.ca |
-| Oct'29,2025 |  Automated and verifiable Software sYstem DEvelopment (ASYDE), 2024|  Gianluca Filippone et al. | gianluca.filippone@gssi.it |
-| Oct'31,2025 |  Envisioning the AI-Augmented Software Development Life Cycle |   Ipek Ozkaya et al. | ozkaya@sei.cmu.edu  |
 | Dec'1 2025 | Flaky Tests and Beyond: Confronting Non-Determinism in Automated Testing | Owain Parry and Wing Lam | o.b.parry@sheffield.ac.uk |
 | Dec'31 2025 | Evaluation of Qualitative Aspects of Intelligent Software Assistants | Claudio Di Sipio et al. | claudio.disipio@univaq.it |
+| Jan'31 2026 | Virtual and Augmented reality software engineering | Xue Qin et al. | xue.qin@villanova.edu |
 | Feb'28 2026 | NIER@ASE | Xusheng Xiao | xusheng.xiao@gmail.com |
 | Mar'31 2026 | Advances and Applications in SSBSE | Man Zhang et al. | manzhang@buaa.edu.cn |
 | Jul'31 2026 | Genetic Improvement | Oliver Krauss | oliver.krauss@fh-hagenberg.at |
