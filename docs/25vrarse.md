@@ -39,7 +39,7 @@ In this special issue of the Automated Software Engineering Journal, we call for
 Please submit via [TBD](https://).
 
 ## Editors
-- Xue Qin (with access) <xue.qin@villanova.edu>
+- Xue Qin <xue.qin@villanova.edu>
 - Shuqing Li <sqli21@cse.cuhk.edu.hk>
 - Xusheng Xiao <xusheng.xiao@asu.edu>
 - Wei Wang <wei.wang@utsa.edu>
