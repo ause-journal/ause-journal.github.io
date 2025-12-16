@@ -64,6 +64,7 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 | Jan'31 2026 | Virtual and Augmented reality software engineering | Xue Qin et al. | xue.qin@villanova.edu |
 | Feb'28 2026 | NIER@ASE | Xusheng Xiao | xusheng.xiao@gmail.com |
 | Mar'31 2026 | Advances and Applications in SSBSE | Man Zhang et al. | manzhang@buaa.edu.cn |
+| Jul'15 2026 | Green and Sustainable Software | Karthik Vaidhyanathan | karthik.vaidhyanathan@iiit.ac.in |
 | Jul'31 2026 | Genetic Improvement | Oliver Krauss | oliver.krauss@fh-hagenberg.at |
 
 ## Current Special Tracks 
