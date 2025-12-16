@@ -71,7 +71,7 @@ Deadline:
 
 ## How to Submit
 
-Please submit via [Springer](TODO)
+Please submit via [Springer](https://link.springer.com/collections/eebdfhbdbj)
 
 ## Editor
 
