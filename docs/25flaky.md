@@ -22,7 +22,7 @@ Topics of interest:
 
 ## Deadline
 
-1st January 2026
+22th January 2026
 
 ## How to Submit
 
