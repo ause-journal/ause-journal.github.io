@@ -60,7 +60,7 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 |due | title |   guest editors| contact|
 |----|------|------------------|-----------------|
 | Dec'31 2025 | Evaluation of Qualitative Aspects of Intelligent Software Assistants | Claudio Di Sipio et al. | claudio.disipio@univaq.it |
-|January'1 2026 | Flaky Tests and Beyond: Confronting Non-Determinism in Automated Testing | Owain Parry and Wing Lam | o.b.parry@sheffield.ac.uk |
+|January'22 2026 | Flaky Tests and Beyond: Confronting Non-Determinism in Automated Testing | Owain Parry and Wing Lam | o.b.parry@sheffield.ac.uk |
 | Jan'31 2026 | Virtual and Augmented reality software engineering | Xue Qin et al. | xue.qin@villanova.edu |
 | Feb'28 2026 | NIER@ASE | Xusheng Xiao | xusheng.xiao@gmail.com |
 | Mar'31 2026 | Advances and Applications in SSBSE | Man Zhang et al. | manzhang@buaa.edu.cn |
