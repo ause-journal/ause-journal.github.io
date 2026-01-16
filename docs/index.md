@@ -59,13 +59,12 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 
 |due | title |   guest editors| contact|
 |----|------|------------------|-----------------|
-| Dec'31 2025 | Evaluation of Qualitative Aspects of Intelligent Software Assistants | Claudio Di Sipio et al. | claudio.disipio@univaq.it |
-|January'22 2026 | Flaky Tests and Beyond: Confronting Non-Determinism in Automated Testing | Owain Parry and Wing Lam | o.b.parry@sheffield.ac.uk |
-| Jan'31 2026 | Virtual and Augmented reality software engineering | Xue Qin et al. | xue.qin@villanova.edu |
-| Feb'28 2026 | NIER@ASE | Xusheng Xiao | xusheng.xiao@gmail.com |
-| Mar'31 2026 | Advances and Applications in SSBSE | Man Zhang et al. | manzhang@buaa.edu.cn |
-| Jul'15 2026 | Green and Sustainable Software | Karthik Vaidhyanathan | karthik.vaidhyanathan@iiit.ac.in |
-| Jul'31 2026 | Genetic Improvement | Oliver Krauss | oliver.krauss@fh-hagenberg.at |
+|January'22 2026 | [Flaky Tests and Beyond: Confronting Non-Determinism in Automated Testing](25flaky.md) | Owain Parry and Wing Lam | o.b.parry@sheffield.ac.uk |
+| Jan'31 2026 | [Virtual and Augmented reality software engineering](25vrarse.md) | Xue Qin et al. | xue.qin@villanova.edu |
+| Feb'28 2026 | [NIER@ASE](26ase-nier.md) | Xusheng Xiao | xusheng.xiao@gmail.com |
+| Mar'31 2026 | [Advances and Applications in SSBSE](26ssbse.md) | Man Zhang et al. | manzhang@buaa.edu.cn |
+| Jul'15 2026 | [Green and Sustainable Software](26Green.md) | Karthik Vaidhyanathan | karthik.vaidhyanathan@iiit.ac.in |
+| Jul'31 2026 | [Genetic Improvement](26gi.md) | Oliver Krauss | oliver.krauss@fh-hagenberg.at |
 
 ## Current Special Tracks 
 
