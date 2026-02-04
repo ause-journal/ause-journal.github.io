@@ -61,8 +61,8 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 |----|------|------------------|-----------------|
 |January'22 2026 | [Flaky Tests and Beyond: Confronting Non-Determinism in Automated Testing](25flaky.md) | Owain Parry and Wing Lam | o.b.parry@sheffield.ac.uk |
 | Jan'31 2026 | [Virtual and Augmented reality software engineering](25vrarse.md) | Xue Qin et al. | xue.qin@villanova.edu |
-| Mar'20 2026| [Envisioning the AI-Augmented Software Development Life Cycle](25aiaugmented.md) | Ipek Ozkaya et al. | ozkaya@sei.cmu.edu |
 | Feb'28 2026 | [NIER@ASE](26ase-nier.md) | Xusheng Xiao | xusheng.xiao@gmail.com |
+| Mar'20 2026| [Envisioning the AI-Augmented Software Development Life Cycle](25aiaugmented.md) | Ipek Ozkaya et al. | ozkaya@sei.cmu.edu |
 | Mar'31 2026 | [Advances and Applications in SSBSE](26ssbse.md) | Man Zhang et al. | manzhang@buaa.edu.cn |
 | Apr'30 2026 | [Automated, Verifiable, and Generative Approaches to Software Engineering](25ASYDE.md) | Marco Autili et al. | marco.autili@univaq.it |
 | Jul'15 2026 | [Green and Sustainable Software](26Green.md) | Karthik Vaidhyanathan | karthik.vaidhyanathan@iiit.ac.in |
