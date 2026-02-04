@@ -36,7 +36,7 @@ In this special issue of the Automated Software Engineering Journal, we call for
 
 ## How to Submit
 
-Please submit via [TBD](https://).
+Closed.
 
 ## Editors
 - Xue Qin <xue.qin@villanova.edu>
