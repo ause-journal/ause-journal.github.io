@@ -26,7 +26,7 @@ Topics of Interest include, but are not limited to:
 
 Opening date for submissions: September 1, 2025
 
-Deadline: TBD
+Deadline: March 20, 2026
 
 ## How to Submit
 
