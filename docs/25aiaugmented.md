@@ -30,7 +30,7 @@ Deadline: TBD
 
 ## How to Submit
 
-https://link.springer.com/collections/ijcbbcddgh
+Please submit via [Springer](https://link.springer.com/collections/ijcbbcddgh).
 
 ## Editor
 
