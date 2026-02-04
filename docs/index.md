@@ -64,6 +64,7 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 | Mar'20 2026| [Envisioning the AI-Augmented Software Development Life Cycle](25aiaugmented.md) | Ipek Ozkaya et al. | ozkaya@sei.cmu.edu |
 | Feb'28 2026 | [NIER@ASE](26ase-nier.md) | Xusheng Xiao | xusheng.xiao@gmail.com |
 | Mar'31 2026 | [Advances and Applications in SSBSE](26ssbse.md) | Man Zhang et al. | manzhang@buaa.edu.cn |
+| Apr'30 2026 | [Automated, Verifiable, and Generative Approaches to Software Engineering](25ASYDE.md) | Marco Autili et al. | marco.autili@univaq.it |
 | Jul'15 2026 | [Green and Sustainable Software](26Green.md) | Karthik Vaidhyanathan | karthik.vaidhyanathan@iiit.ac.in |
 | Jul'31 2026 | [Genetic Improvement](26gi.md) | Oliver Krauss | oliver.krauss@fh-hagenberg.at |
 
