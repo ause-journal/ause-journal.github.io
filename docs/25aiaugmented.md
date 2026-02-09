@@ -26,8 +26,6 @@ Topics of Interest include, but are not limited to:
 
 Opening date for submissions: September 1, 2025
 
-Deadline: March 20, 2026
-
 ## How to Submit
 
 Please submit via [Springer](https://link.springer.com/collections/ijcbbcddgh).
