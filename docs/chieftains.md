@@ -12,7 +12,7 @@ description: "Chieftains"
 - Hoa Dam: Deputy Editor-in-Chief
 - Greg Gay:  Deputy Editor-in-Chief
 - Justyna Petke: Deputy Editor-in-Chief
-- Matias Martinez: DEputy Editor-in-Chief
+- Matias Martinez: Deputy Editor-in-Chief
 
 | What              | How                                | Who    |
 |-------------------|--------------------------------------|-------|
