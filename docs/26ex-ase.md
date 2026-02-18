@@ -1,4 +1,4 @@
-/Users/justyna/Documents/z_docs/websites/ause-journal.github.io ---
+---
 layout: default
 title: "CFP: Ex-ASE"
 description: "CFP: Explainability in Automated Software Engineering (Ex-ASE) "
