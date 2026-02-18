@@ -57,7 +57,7 @@ Please submit via [Springer](https://link.springer.com/collections/edfceadhdg).
 
 ## Editors
 
-- Mersedes Sadegh, sadeghi@cs.uni-koeln.de, University of Cologne, Germany
+- Mersedeh Sadeghi, sadeghi@cs.uni-koeln.de, University of Cologne, Germany
 - Livia Lestingi, Politecnico di Milano, Italy
 - Alireza Javadian Sabet, University of Pittsburg, USA
 - Marjan Hosseini, University of Connecticut, USA
