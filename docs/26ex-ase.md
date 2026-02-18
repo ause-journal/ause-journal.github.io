@@ -1,4 +1,4 @@
----
+/Users/justyna/Documents/z_docs/websites/ause-journal.github.io ---
 layout: default
 title: "CFP: Ex-ASE"
 description: "CFP: Explainability in Automated Software Engineering (Ex-ASE) "
@@ -6,10 +6,9 @@ nav_order: 3
 ---
 
 # Call for papers, Explainability in Automated Software Engineering (Ex-ASE)
- 
 {: .fs-9 }
 
- The increasing automation of software engineering processes—from requirements and design to testing and deployment—has significantly improved efficiency and scalability. However, the growing reliance on AI-based and autonomous techniques often leads to a loss of transparency, resulting in “black-box” systems whose behavior and reasoning are opaque to developers and users. This lack of explainability poses serious risks in high-stakes domains such as autonomous vehicles, digital health, and robotics, where software decisions have direct real-world consequences.
+The increasing automation of software engineering processes—from requirements and design to testing and deployment—has significantly improved efficiency and scalability. However, the growing reliance on AI-based and autonomous techniques often leads to a loss of transparency, resulting in “black-box” systems whose behavior and reasoning are opaque to developers and users. This lack of explainability poses serious risks in high-stakes domains such as autonomous vehicles, digital health, and robotics, where software decisions have direct real-world consequences.
 
 To address these challenges, this Special Issue invites submissions on the emerging field of Explainability in Automated Software Engineering (Ex-ASE). The aim is to promote explainability as a core principle in the development of ethical, transparent, and responsible automated software systems. We welcome contributions presenting novel methods, tools, frameworks, and empirical studies that make explainability a first-class concern in both traditional and autonomous software engineering. 
 
@@ -58,7 +57,7 @@ Please submit via [Springer](https://link.springer.com/collections/edfceadhdg).
 
 ## Editors
 
-- Mersedes Sadegh, University of Cologne, Germany
+- Mersedes Sadegh, sadeghi@cs.uni-koeln.de, University of Cologne, Germany
 - Livia Lestingi, Politecnico di Milano, Italy
 - Alireza Javadian Sabet, University of Pittsburg, USA
 - Marjan Hosseini, University of Connecticut, USA
