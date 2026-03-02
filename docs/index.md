@@ -66,6 +66,7 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 | Jul'15 2026 | [Green and Sustainable Software](26Green.md) | Karthik Vaidhyanathan | karthik.vaidhyanathan@iiit.ac.in |
 | Jul'31 2026 | [Genetic Improvement](26gi.md) | Oliver Krauss | oliver.krauss@fh-hagenberg.at |
 |Aug'15 2026| [Special Issue for the RENE@SANER Track](26sanerrene.md) | Sebastian Proksch | S.Proksch@tudelft.nl |
+|Mar'12 2027| [Special Issue for APSEC 2026](26apsec.md)|In-Young Ko|iko@kaist.ac.kr| 
 
 ## Current Special Tracks 
 
