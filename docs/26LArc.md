@@ -103,5 +103,5 @@ For inquiries regarding suitability or scope, please contact the Guest Editors:
 
 ## How to Submit
 
-Submission link: [SNAPP](X)
+Submission link: [Springer](https://link.springer.com/collections/jdacgeggca)
 
