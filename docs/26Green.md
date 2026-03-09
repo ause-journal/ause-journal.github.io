@@ -8,7 +8,6 @@ nav_order: 3
 # Call for papers, Green and Sustainable Software
 {: .fs-9 }
 
-Description, including a list of topics covered:
 The engineering of green software-intensive systems is critical in our drive towards a
 sustainable, smarter planet. The goal of green software engineering is to apply green
 principles to the design and operation of software-intensive systems. Green and
@@ -21,7 +20,9 @@ effect change. Analysis of the sustainability of a specific software system requ
 software that aids developers in weighing the four dimensions of
 sustainability---economic, social, environmental, and technical---with their attendant
 trade-offs. The software engineering community must assume leadership in this
-important challenge. In this workshop, we will explore the theme of “green software
+important challenge. 
+
+In this special issue, we will explore the theme of “green software
 engineering for software sustainability” with a goal towards creating actionable
 outcomes that will affect how software engineering is practiced and taught in the future,
 in order to help organizations prioritize their sustainability objectives.
