@@ -46,7 +46,7 @@ Submission deadline: 15 August 2026
 
 Opening date for submissions: 15 April 2026
 
-Please submit via Springer (link TBA).
+Please submit via [Springer](https://link.springer.com/collections/jdacgeggca).
 
 ## Editors
 
