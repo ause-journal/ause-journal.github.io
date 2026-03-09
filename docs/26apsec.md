@@ -68,7 +68,7 @@ Submission Deadline: March 12, 2027
 
 ## How to Submit
 
-Please submit via Springer, link TBA. 
+Please submit via [Springer](https://link.springer.com/collections/bhffibbfhh). 
 
 ## Editors
 
