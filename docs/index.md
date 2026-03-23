@@ -66,7 +66,7 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 | Jul'31 2026 | [Genetic Improvement](26gi.md) | Oliver Krauss | oliver.krauss@fh-hagenberg.at |
 | Aug'15 2026 | [Special Issue for the RENE@SANER Track](26sanerrene.md) | Sebastian Proksch | S.Proksch@tudelft.nl |
 | Sep'1 2026 | [Special Issue for Low-Code Development - Architecture, Design, and Modeling](26LArc.md) | Thiago Rocha Silva et al. | thiago@mmmi.sdu.dk | 
-| Sep'30 2026 | [Special Issue on the Interplay of ASE and Software-Intensive Business]26(IWSiB) | Andrey Saltan et al. | Andrey.Saltan@lut.fi |
+| Sep'30 2026 | [Special Issue on the Interplay of ASE and Software-Intensive Business](26IWSiB.md) | Andrey Saltan et al. | Andrey.Saltan@lut.fi |
 |Mar'12 2027| [Special Issue for APSEC 2026](26apsec.md)|In-Young Ko|iko@kaist.ac.kr| 
 
 ## Current Special Tracks 
