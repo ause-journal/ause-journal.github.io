@@ -59,15 +59,15 @@ extend their workshop contributions and to ensure high-quality journal review cy
 
 ### Phase 0 – Announcement
 
-- February 2026 – Special Session proposal confirmed with ASE Editor-in-Chief
-- March 2026 – Public announcement and call opens
-- April 2026 – Announcement at ICSE & LArc 2026
+- February 2026: Special Session proposal confirmed with ASE Editor-in-Chief
+- March 2026: Public announcement and call opens
+- April 2026: Announcement at ICSE & LArc 2026
 
 ### Phase 1 – First Review Cycle
 
-- 1 September 2026  Paper submission deadline
-September – October 2026  Reviewer assignment and review period
-- 1 November 2026 First decision notification
+- 1 September 2026:  Paper submission deadline
+- September – October 2026:  Reviewer assignment and review period
+- 1 November 2026: First decision notification
   -  Accept
   -  Minor revision
   -  Major revision
@@ -81,9 +81,9 @@ September – October 2026  Reviewer assignment and review period
 
 ### Phase 3 – Production
 
-- 1 April 2027 – Camera-ready submission
-- 15 April 2027 – Online-first publication
-- Summer 2027 – Special Issue published
+- 1 April 2027: Camera-ready submission
+- 15 April 2027: Online-first publication
+- Summer 2027: Special Issue published
 
 
 ##  Relationship to LArc 2026
