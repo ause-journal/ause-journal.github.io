@@ -33,7 +33,7 @@ Authors of well-reviewed papers from the 17th Symposium on Search-Based Software
 
 Submission Opens: December 1, 2025
 
-Submission Deadline: March 31, 2026
+Submission Deadline: April 14, 2026
 
 ## How to Submit
 
