@@ -38,6 +38,14 @@ This thematic collection welcomes a broad range of submission types, including f
 ### Rationale and Timeliness of the Thematic Collection
 The diversity and recency of the studies listed above further underscore the timeliness and necessity of this thematic collection. These contributions originate from research groups across the globe and include several works published in 2025, reflecting the rapid growth and strong momentum in AutoML-driven code review and software quality research. The emergence of these cutting-edge studies highlights both the expanding interest in this domain and the current lack of a dedicated venue that brings together advances in AutoML, intelligent code analysis, and automated quality evaluation. By providing a focused platform for these rapidly evolving research directions, this special issue addresses a clear community need and supports the continued development of next-generation intelligent software engineering techniques.
 
+### Deadlines
+
+- CFP Distribution: April, 2026
+- Submission Deadline: October, 2026
+- First Review Decisions: December, 2026
+- Revised Paper Submission: February, 2027
+- Final Acceptance Notification: March, 2027
+
 ### Link to previous editions of this thematic collections
 - https://2024.ieeewcci.org/special-sessions
 - https://2025.ijcnn.org/authors/special-sessions
