@@ -34,7 +34,7 @@ Submission Deadline: September 30th, 2026
 
 ## How to Submit
 
-Submission link: [TBA](TBA)
+Submission [link](https://link.springer.com/collections/geiadeefdd)
 
 ## Editor
 
