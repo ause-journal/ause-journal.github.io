@@ -53,6 +53,10 @@ Opening date: April 15, 2026 (Date of the workshop)
 
 Deadline for submissions: July 15, 2026
 
+## Submission
+
+Please, visit the [submission site](https://link.springer.com/collections/biiifjacaf)
+
 ## Guest editor list 
 - Anila Mjeda,
 CyberSkills, MTU Munster Technological University; Lero - the Science Foundation Ireland Research Centre for Software, Ireland. anila.mjeda@mtu.ie
