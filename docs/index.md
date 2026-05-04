@@ -59,7 +59,6 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 
 |due | title |   guest editors| contact|
 |----|------|------------------|-----------------|
-| Apr'30 2026 | [Automated, Verifiable, and Generative Approaches to Software Engineering](25ASYDE.md) | Marco Autili et al. | marco.autili@univaq.it |
 |June'30 2026| [Explainability in Automated Software Engineering](26ex-ase.md)| Mersedeh Sadeghi | sadeghi@cs.uni-koeln.de |
 | Jul'15 2026 | [Green and Sustainable Software](26Green.md) | Karthik Vaidhyanathan | karthik.vaidhyanathan@iiit.ac.in |
 | Jul'15 2026 | [Quantum Software Engineering](26qse.md) | Sophie Fortz | sophie.fortz@kcl.ac.uk |
