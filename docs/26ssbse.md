@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CFP: SSBSE 2026"
+title: "CFP: SBSE in LLM-era 2026"
 description: "CFP: Special Issue on Search-Based Software Engineering in the Era of LLMs and Agentic Systems"
 nav_order: 3
 ---
@@ -8,7 +8,6 @@ nav_order: 3
 # Call for Papers - ASE Special Issue on “Search-Based Software Engineering in the Era of LLMs and Agentic Systems”
 {: .fs-9 }
 A special issue of the Automated Software Engineering Journal. 
-https://link.springer.com/collections/jjcfecffai
 
 # Description of the Special Issue
 This special issue in the Automated Software Engineering journal is intended to provide practitioners and researchers with a venue to present insights, innovations, and solutions in the construction and/or application of Search-Based Software Engineering (SBSE). 
@@ -44,7 +43,7 @@ Submission Deadline: January 30, 2027
 # Submission Instructions
 Submissions should conform to the journal’s formatting requirements and will undergo rigorous peer review. Authors are encouraged to include supplementary materials (e.g., datasets or experimental results) to enhance reproducibility.
 Further details on submission deadlines and procedures will be announced soon.
-Submission link: https://link.springer.com/collections/jjcfecffai
+Submission link: via [Springer](https://link.springer.com/collections/jjcfecffai)
 
 # Editors of the Special Issue
 - Wesley K. G. Assunção, NC State University, USA (corresponding guest editor)
