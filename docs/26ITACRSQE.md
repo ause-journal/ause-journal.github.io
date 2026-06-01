@@ -41,10 +41,14 @@ The diversity and recency of the studies listed above further underscore the tim
 ### Deadlines
 
 - CFP Distribution: April, 2026
-- Submission Deadline: October, 2026
-- First Review Decisions: December, 2026
-- Revised Paper Submission: February, 2027
-- Final Acceptance Notification: March, 2027
+- Submission Deadline: October 1st, 2026
+- First Review Decisions: December 1st, 2026
+- Revised Paper Submission: February 1st, 2027
+- Final Acceptance Notification: March 1st, 2027
+
+### Submission link
+
+[Springer site](https://link.springer.com/collections/jjgcbecced)
 
 ### Link to previous editions of this thematic collections
 - https://2024.ieeewcci.org/special-sessions
