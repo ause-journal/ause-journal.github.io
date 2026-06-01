@@ -68,6 +68,7 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 | Sep'30 2026 | [Special Issue on the Interplay of ASE and Software-Intensive Business](26iwsib.md) | Andrey Saltan et al. | Andrey.Saltan@lut.fi |
 |Jan'30 2027| [Special Issue for SBSE 2026](26ssbse.md)|Wesley K. G. Assunção|wguezas@ncsu.edu| 
 |Mar'12 2027| [Special Issue for APSEC 2026](26apsec.md)|In-Young Ko|iko@kaist.ac.kr| 
+|Oct'11 2027| [Special Issue for SESoS 2027](27SESoS.md)|Everton Cavalcante et al.|everton.cavalcante@ufrn.br|
 
 ## Current Special Tracks 
 
