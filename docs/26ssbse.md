@@ -1,4 +1,12 @@
+---
+layout: default
+title: "CFP: SSBSE 2026"
+description: "CFP: Special Issue on Search-Based Software Engineering in the Era of LLMs and Agentic Systems"
+nav_order: 3
+---
+
 # Call for Papers - ASE Special Issue on “Search-Based Software Engineering in the Era of LLMs and Agentic Systems”
+{: .fs-9 }
 A special issue of the Automated Software Engineering Journal. 
 https://link.springer.com/collections/jjcfecffai
 
