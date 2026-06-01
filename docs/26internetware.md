@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CFP: "
+title: "CFP: Internetware 2026"
 description: "Call for Papers: Special Issue on Internetware 2026"
 nav_order: 3
 ---
