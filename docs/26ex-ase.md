@@ -46,7 +46,7 @@ The extended versions of Ex-ASE 2025 papers will undergo the standard, rigorous 
 
 ## Deadline
 
-Submission deadline: 30 June 2026
+Submission deadline: 1 September 2026
 
 
 ## How to Submit
