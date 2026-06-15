@@ -59,11 +59,11 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 
 |due | title |   guest editors| contact|
 |----|------|------------------|-----------------|
-|June'30 2026| [Explainability in Automated Software Engineering](26ex-ase.md)| Mersedeh Sadeghi | sadeghi@cs.uni-koeln.de |
 | Jul'15 2026 | [Green and Sustainable Software](26Green.md) | Karthik Vaidhyanathan | karthik.vaidhyanathan@iiit.ac.in |
 | Jul'15 2026 | [Quantum Software Engineering](26qse.md) | Sophie Fortz | sophie.fortz@kcl.ac.uk |
 | Jul'31 2026 | [Genetic Improvement](26gi.md) | Oliver Krauss | oliver.krauss@fh-hagenberg.at |
 | Aug'15 2026 | [Special Issue for the RENE@SANER Track](26sanerrene.md) | Sebastian Proksch | S.Proksch@tudelft.nl |
+|Sep'1 2026| [Explainability in Automated Software Engineering](26ex-ase.md)| Mersedeh Sadeghi | sadeghi@cs.uni-koeln.de |
 | Sep'1 2026 | [Special Issue for Low-Code Development - Architecture, Design, and Modeling](26LArc.md) | Thiago Rocha Silva et al. | thiago@mmmi.sdu.dk | 
 | Sep'30 2026 | [Special Issue on the Interplay of ASE and Software-Intensive Business](26iwsib.md) | Andrey Saltan et al. | Andrey.Saltan@lut.fi |
 |Jan'7 2027| [SI for Internetware 2026](26internetware.md)|Xiaoning Du|Xiaoning.Du@monash.edu|
