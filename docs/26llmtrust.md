@@ -40,6 +40,7 @@ submissions aligned with the scope.
 # Submission
 
 Deadline: December 31, 2026
+
 Submission link: via Springer, TBA
 
 # Guest editor list:
