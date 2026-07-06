@@ -67,6 +67,7 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 | Sep'1 2026 | [Special Issue for Low-Code Development - Architecture, Design, and Modeling](26LArc.md) | Thiago Rocha Silva et al. | thiago@mmmi.sdu.dk | 
 | Sep'30 2026 | [Special Issue on the Interplay of ASE and Software-Intensive Business](26iwsib.md) | Andrey Saltan et al. | Andrey.Saltan@lut.fi |
 | Oct'1 2026 | [Intelligent Techniques for Automated Code Review and Software Quality Evaluation](https://ause-journal.github.io/26ITACRSQE.html) | Nan Li et al. | linan10@sxu.edu.cn |
+| Dec'31 2026 | [SI for FSE-LLMTrust 2026](26llmtrust.md) | Sumon Biswas | sumon@case.edu|
 |Jan'7 2027| [SI for Internetware 2026](26internetware.md)|Xiaoning Du|Xiaoning.Du@monash.edu|
 |Jan'30 2027| [Special Issue for SBSE 2026](26ssbse.md)|Wesley K. G. Assunção|wguezas@ncsu.edu| 
 |Mar'12 2027| [Special Issue for APSEC 2026](26apsec.md)|In-Young Ko|iko@kaist.ac.kr| 
