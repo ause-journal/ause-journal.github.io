@@ -36,7 +36,7 @@ Final decision notification: May 10, 2028
 
 ## How to Submit
 
-Submission link TBA.
+[via Springer](https://link.springer.com/collections/habgbccjbj)
 
 ## Guest editors
 - Everton Cavalcante, Federal University of Rio Grande do Norte, Brazil | everton.cavalcante@ufrn.br
