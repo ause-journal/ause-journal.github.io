@@ -51,7 +51,7 @@ Quantum Software Stack Engineering Hybrid Solutions Q-SE for NISQ Architectures 
 
 Opening date: April 15, 2026 (Date of the workshop) 
 
-Deadline for submissions: July 15, 2026
+Deadline for submissions: September 15, 2026
 
 ## Submission
 
