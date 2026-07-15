@@ -60,7 +60,7 @@ architectures
 ## Deadline
 Opening date for submissions: May 15, 2026
  
-Deadline for submissions: July 15, 2026
+Deadline for submissions: August 15, 2026
 
 
 ## How to Submit
