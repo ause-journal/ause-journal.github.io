@@ -71,6 +71,7 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 |Jan'7 2027| [SI for Internetware 2026](26internetware.md)|Xiaoning Du|Xiaoning.Du@monash.edu|
 |Jan'30 2027| [Special Issue for SBSE 2026](26ssbse.md)|Wesley K. G. Assunção|wguezas@ncsu.edu| 
 |Mar'12 2027| [Special Issue for APSEC 2026](26apsec.md)|In-Young Ko|iko@kaist.ac.kr| 
+|Apr'30 2027| [Special Issue for DevOpsSustain 2026]()| Andreas Brunnert|brunnert@hm.edu|
 |Oct'11 2027| [Special Issue for SESoS 2027](27SESoS.md)|Everton Cavalcante et al.|everton.cavalcante@ufrn.br|
 
 ## Current Special Tracks 
