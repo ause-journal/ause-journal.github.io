@@ -65,25 +65,21 @@ extend their workshop contributions and to ensure high-quality journal review cy
 
 ### Phase 1 – First Review Cycle
 
-- 1 September 2026:  Paper submission deadline
-- September – October 2026:  Reviewer assignment and review period
-- 1 November 2026: First decision notification
-  -  Accept
-  -  Minor revision
-  -  Major revision
-  -  Reject
- 
-###  Phase 2 – Revision Cycle
+- 1 November 2026 – Paper submission deadline
+- November - December 2026 – Reviewer assignment and review period
+- Early January 2027 – First decision notification
 
-- 1 January 2027: Revised manuscripts due
-- January – February 2027:  Second review round
-- 1 March 2027: Final decision notification
+### Phase 2 – Revision Cycle
+
+- 1 March 2027 – Revised manuscripts due
+- March - April 2027 – Second review round
+- Early May 2027 – Final decision notification
 
 ### Phase 3 – Production
 
-- 1 April 2027: Camera-ready submission
-- 15 April 2027: Online-first publication
-- Summer 2027: Special Issue published
+- 1 June 2027 – Camera-ready submission
+- 15 June 2027 – Online-first publication
+- Summer 2027 – Special Issue published
 
 
 ##  Relationship to LArc 2026
