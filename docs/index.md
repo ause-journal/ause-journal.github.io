@@ -63,10 +63,10 @@ repo](https://github.com/ause-journal/ause-journal.github.io)
 | Aug'15 2026 | [Green and Sustainable Software](26Green.md) | Karthik Vaidhyanathan | karthik.vaidhyanathan@iiit.ac.in |
 | Aug'15 2026 | [Special Issue for the RENE@SANER Track](26sanerrene.md) | Sebastian Proksch | S.Proksch@tudelft.nl |
 |Sep'1 2026| [Explainability in Automated Software Engineering](26ex-ase.md)| Mersedeh Sadeghi | sadeghi@cs.uni-koeln.de |
-| Sep'1 2026 | [Special Issue for Low-Code Development - Architecture, Design, and Modeling](26LArc.md) | Thiago Rocha Silva et al. | thiago@mmmi.sdu.dk | 
 | Sep'15 2026 | [Quantum Software Engineering](26qse.md) | Sophie Fortz | sophie.fortz@kcl.ac.uk |
 | Sep'30 2026 | [Special Issue on the Interplay of ASE and Software-Intensive Business](26iwsib.md) | Andrey Saltan et al. | Andrey.Saltan@lut.fi |
 | Oct'1 2026 | [Intelligent Techniques for Automated Code Review and Software Quality Evaluation](https://ause-journal.github.io/26ITACRSQE.html) | Nan Li et al. | linan10@sxu.edu.cn |
+| Nov'1 2026 | [Special Issue for Low-Code Development - Architecture, Design, and Modeling](26LArc.md) | Thiago Rocha Silva et al. | thiago@mmmi.sdu.dk | 
 | Dec'31 2026 | [SI for FSE-LLMTrust 2026](26llmtrust.md) | Sumon Biswas | sumon@case.edu|
 |Jan'7 2027| [SI for Internetware 2026](26internetware.md)|Xiaoning Du|Xiaoning.Du@monash.edu|
 |Jan'30 2027| [Special Issue for SBSE 2026](26ssbse.md)|Wesley K. G. Assunção|wguezas@ncsu.edu| 
